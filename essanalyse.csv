@@ -1,0 +1,1187 @@
+cntry,news,polintr,vote,age,gndr,eduyrs,edutype,pdwrk,hincfel,pstplonl,contplt,netusoft,netustm,trstplt,trstprt,cptppola
+SE,60,2,1,62,Female,12,Gymnasial uddannelse,1,1,2,1,5,240,4,4,2
+SE,30,3,1,34,Female,18,Universitetsuddannelse,0,2,2,2,5,540,4,4,2
+SE,5,4,1,41,Female,16,Gymnasial uddannelse,0,3,2,2,5,780,2,4,1
+SE,90,2,1,38,Male,12,Gymnasial uddannelse,1,2,1,1,5,480,3,3,4
+SE,45,3,1,65,Female,18,Universitetsuddannelse,1,1,2,2,5,120,7,7,2
+SE,5,3,1,28,Female,12,Gymnasial uddannelse,0,3,2,2,5,180,4,2,4
+SE,120,2,1,86,Female,9,Videregående uddannelse,0,2,2,1,3,NA,NA,5,2
+SE,60,1,1,65,Female,12,Gymnasial uddannelse,1,1,2,1,5,510,6,6,5
+SE,60,2,1,69,Female,15,Videregående uddannelse,0,1,2,2,5,45,1,3,3
+SE,90,3,1,58,Female,12,Videregående uddannelse,1,1,2,2,5,30,5,6,3
+SE,30,2,1,66,Male,12,Gymnasial uddannelse,0,2,2,2,5,90,4,4,4
+SE,60,2,1,66,Female,13,Gymnasial uddannelse,1,1,2,2,5,600,3,0,2
+SE,30,3,1,27,Female,15,Gymnasial uddannelse,1,1,2,2,5,300,5,5,3
+SE,15,2,1,72,Male,11,Gymnasial uddannelse,0,2,2,2,5,60,5,8,2
+SE,60,2,1,71,Male,20,Universitetsuddannelse,0,1,2,2,5,120,7,6,3
+SE,15,1,1,21,Male,13,Gymnasial uddannelse,0,2,2,2,5,300,7,7,4
+SE,30,2,1,35,Male,16,Universitetsuddannelse,0,4,1,2,5,300,2,4,3
+SE,60,1,1,73,Female,15,Videregående uddannelse,0,1,2,2,5,420,3,2,3
+SE,60,1,1,54,Male,12,Gymnasial uddannelse,0,1,2,1,5,180,4,4,4
+SE,60,1,1,77,Female,19,Universitetsuddannelse,0,1,2,2,5,150,5,5,3
+SE,30,3,1,20,Male,12,Gymnasial uddannelse,0,2,1,2,5,300,1,3,2
+SE,30,1,1,37,Male,17,Universitetsuddannelse,1,1,2,1,5,600,8,8,3
+SE,0,4,2,44,Female,18,Videregående uddannelse,1,1,2,2,3,NA,4,4,3
+SE,30,1,1,40,Female,17,Universitetsuddannelse,0,1,2,2,5,540,3,8,4
+SE,NA,1,1,51,Female,16,Universitetsuddannelse,1,1,1,2,5,600,7,6,3
+SE,150,3,1,82,Female,9,Grundskole,0,1,2,2,1,NA,3,2,1
+SE,45,1,1,63,Female,17,Universitetsuddannelse,1,1,2,1,5,300,7,6,4
+SE,240,1,1,85,Female,13,Universitetsuddannelse,0,1,2,2,5,480,4,4,4
+SE,60,1,1,50,Male,18,Universitetsuddannelse,1,1,1,1,5,480,7,7,5
+SE,20,2,1,31,Female,13,Gymnasial uddannelse,0,2,2,2,5,120,3,3,3
+SE,30,2,1,35,Female,16,Universitetsuddannelse,1,1,1,2,5,480,6,6,3
+SE,60,1,1,48,Male,14,Videregående uddannelse,0,4,2,2,5,300,5,5,5
+SE,60,2,1,33,Female,14,Videregående uddannelse,1,1,1,2,5,270,3,1,3
+SE,60,2,1,43,Female,15,Universitetsuddannelse,1,1,2,2,5,300,3,3,2
+SE,60,3,1,45,Female,16,Universitetsuddannelse,1,2,2,2,5,420,6,6,3
+SE,90,1,1,64,Male,14,Videregående uddannelse,0,2,1,2,5,180,5,5,2
+SE,180,1,1,77,Male,12,Gymnasial uddannelse,0,2,2,1,3,NA,7,7,4
+SE,15,1,1,26,Female,18,Gymnasial uddannelse,0,2,1,1,5,120,3,3,2
+SE,5,2,1,46,Female,14,Videregående uddannelse,1,1,2,2,5,60,7,7,2
+SE,15,2,1,46,Male,16,Universitetsuddannelse,1,2,2,2,5,120,3,3,2
+SE,20,3,2,21,Male,12,Videregående uddannelse,0,2,2,2,5,600,4,4,3
+SE,60,1,1,65,Male,10,Grundskole,0,1,1,2,5,180,8,7,3
+SE,5,3,1,43,Female,17,Universitetsuddannelse,1,1,2,2,5,240,7,8,2
+SE,NA,1,1,58,Female,14,Videregående uddannelse,1,1,1,1,5,600,9,7,5
+SE,10,3,1,44,Female,19,Videregående uddannelse,1,1,2,2,4,30,7,7,3
+SE,30,2,1,54,Female,15,Universitetsuddannelse,1,1,2,1,5,300,6,6,3
+SE,30,2,1,33,Male,17,Universitetsuddannelse,1,1,2,2,5,150,4,5,4
+SE,60,3,2,69,Male,16,Universitetsuddannelse,0,1,2,2,5,60,6,6,2
+SE,NA,2,1,64,Male,9,Grundskole,0,2,2,2,1,NA,4,4,3
+SE,60,3,1,56,Male,11,Gymnasial uddannelse,1,1,2,2,5,540,6,6,2
+SE,240,2,1,70,Female,14,Videregående uddannelse,0,2,2,2,5,480,5,5,2
+SE,60,3,1,80,Female,19,Universitetsuddannelse,0,1,2,2,5,180,0,3,3
+SE,30,3,1,71,Male,10,Grundskole,0,1,2,2,5,120,5,6,2
+SE,0,3,1,40,Male,10,Gymnasial uddannelse,1,2,1,2,5,60,7,7,2
+SE,50,3,1,36,Female,17,Universitetsuddannelse,1,1,1,1,5,NA,0,0,3
+SE,60,2,1,42,Female,17,Universitetsuddannelse,1,1,NA,2,5,510,7,6,3
+SE,60,2,1,86,Female,9,Grundskole,0,2,2,2,3,NA,0,0,1
+SE,30,2,1,44,Male,17,Universitetsuddannelse,1,1,1,1,5,600,7,7,3
+SE,15,4,1,38,Female,17,Videregående uddannelse,1,2,2,2,5,360,4,5,2
+SE,30,3,1,79,Male,16,Universitetsuddannelse,0,1,2,2,2,NA,3,3,1
+SE,60,1,1,68,Male,11,Grundskole,0,4,2,2,5,300,2,NA,3
+SE,60,2,1,58,Male,11,Gymnasial uddannelse,1,1,1,2,5,60,3,3,2
+SE,60,3,1,57,Male,11,Gymnasial uddannelse,1,1,2,2,5,120,7,7,2
+SE,120,1,1,64,Female,NA,Universitetsuddannelse,1,1,2,1,5,180,7,7,3
+SE,180,1,1,80,Male,14,Gymnasial uddannelse,0,2,2,1,5,60,0,0,4
+SE,NA,1,1,75,Female,19,Videregående uddannelse,0,1,2,2,5,150,6,6,2
+SE,60,1,1,64,Female,13,Videregående uddannelse,1,1,1,2,4,20,9,9,4
+SE,30,1,1,50,Male,16,Universitetsuddannelse,1,1,1,2,5,720,7,7,4
+SE,60,2,1,65,Female,19,Universitetsuddannelse,1,1,2,2,5,240,5,5,3
+SE,120,1,1,80,Male,19,Universitetsuddannelse,1,1,2,1,5,120,3,4,3
+SE,60,3,1,60,Male,13,Gymnasial uddannelse,1,1,2,2,5,180,7,6,1
+SE,240,1,1,75,Male,15,Gymnasial uddannelse,0,1,2,2,5,210,6,6,3
+SE,180,2,1,69,Female,11,Gymnasial uddannelse,0,1,2,2,5,120,7,6,3
+SE,120,3,1,74,Female,12,Grundskole,0,1,2,2,5,105,5,5,1
+SE,120,2,1,76,Male,NA,Universitetsuddannelse,0,1,2,1,3,NA,1,5,4
+SE,120,1,1,79,Male,16,Universitetsuddannelse,0,1,1,2,5,90,7,7,4
+SE,60,2,1,65,Female,17,Universitetsuddannelse,0,1,2,2,5,105,4,5,4
+SE,30,1,1,46,Male,17,Universitetsuddannelse,1,1,2,1,5,60,5,7,3
+SE,15,3,1,49,Female,21,Universitetsuddannelse,1,2,1,1,5,240,NA,NA,2
+SE,30,3,1,48,Female,17,Universitetsuddannelse,1,1,2,2,5,300,7,6,4
+SE,60,1,1,26,Female,12,Gymnasial uddannelse,1,1,2,2,5,660,6,5,4
+SE,180,1,1,65,Female,11,Gymnasial uddannelse,1,1,1,2,5,480,1,1,3
+SE,NA,3,1,44,Male,20,Gymnasial uddannelse,0,2,2,2,5,180,3,2,3
+SE,60,2,1,80,Female,13,Videregående uddannelse,0,1,2,1,5,30,7,5,3
+SE,60,2,1,71,Female,11,Gymnasial uddannelse,1,2,2,2,5,90,5,5,2
+SE,30,2,1,46,Male,16,Universitetsuddannelse,1,2,2,2,5,240,7,7,3
+SE,90,2,1,57,Female,19,Universitetsuddannelse,1,1,2,2,5,120,7,6,3
+SE,60,3,1,55,Male,11,Gymnasial uddannelse,1,1,2,2,5,120,8,8,3
+SE,0,2,1,30,Female,17,Universitetsuddannelse,0,1,1,2,5,360,7,7,3
+SE,90,1,1,65,Male,12,Gymnasial uddannelse,1,2,2,2,5,180,1,1,5
+SE,20,3,1,46,Female,16,Universitetsuddannelse,1,2,2,2,5,600,6,6,4
+SE,120,2,1,90,Female,15,Universitetsuddannelse,0,1,2,2,2,NA,4,5,3
+SE,180,3,1,76,Female,13,Videregående uddannelse,0,2,2,2,4,60,3,3,1
+SE,40,2,1,20,Male,9,Grundskole,1,3,1,1,5,292,1,1,2
+SE,20,1,1,40,Male,19,Universitetsuddannelse,1,1,1,1,5,120,7,7,4
+SE,90,2,1,38,Female,18,Universitetsuddannelse,1,1,1,2,5,360,5,5,3
+SE,30,2,1,48,Female,13,Videregående uddannelse,1,1,1,2,5,600,3,3,3
+SE,30,2,1,65,Male,10,Videregående uddannelse,0,1,2,2,5,60,6,7,3
+SE,5,4,1,30,Male,12,Gymnasial uddannelse,1,1,2,1,5,240,2,4,1
+SE,30,3,1,59,Male,11,Gymnasial uddannelse,1,1,2,2,5,180,3,3,3
+SE,60,2,1,79,Male,8,Grundskole,0,2,2,2,5,120,4,3,3
+SE,80,2,1,74,Female,13,Gymnasial uddannelse,0,1,2,2,5,150,4,6,3
+SE,30,2,1,60,Male,12,Gymnasial uddannelse,1,2,2,2,5,30,5,5,2
+SE,120,1,1,58,Male,12,Gymnasial uddannelse,1,1,2,2,5,600,7,8,1
+SE,120,2,1,68,Female,19,Universitetsuddannelse,0,1,1,2,5,360,4,2,3
+SE,60,1,1,43,Male,18,Universitetsuddannelse,1,1,2,2,5,240,8,8,4
+SE,30,2,1,36,Female,12,Gymnasial uddannelse,0,1,2,2,5,480,5,5,1
+SE,30,2,1,26,Female,12,Videregående uddannelse,1,2,1,2,5,480,4,5,4
+SE,30,3,1,71,Male,10,Grundskole,0,2,2,2,3,NA,3,3,1
+SE,120,2,1,56,Female,18,Universitetsuddannelse,1,1,2,2,5,180,5,6,4
+SE,120,2,1,46,Female,18,Universitetsuddannelse,1,1,2,2,5,360,4,2,3
+SE,45,2,1,59,Male,12,Videregående uddannelse,1,4,2,2,5,120,5,6,4
+SE,60,1,1,68,Female,15,Videregående uddannelse,0,1,2,2,5,330,6,6,1
+SE,120,3,1,30,Male,15,Videregående uddannelse,0,1,2,2,5,360,6,6,2
+SE,150,1,1,85,Male,17,Videregående uddannelse,0,1,1,1,5,210,6,8,2
+SE,15,4,2,66,Male,17,Gymnasial uddannelse,1,1,2,2,5,840,1,2,1
+SE,10,3,2,20,Male,12,Gymnasial uddannelse,1,4,2,2,1,NA,5,7,3
+SE,30,2,1,44,Female,17,Universitetsuddannelse,1,1,2,2,5,600,6,7,3
+SE,20,3,1,44,Male,12,Gymnasial uddannelse,1,1,2,2,5,90,7,7,1
+SE,60,1,1,35,Male,12,Gymnasial uddannelse,1,2,2,2,5,NA,2,5,4
+SE,15,2,1,34,Female,15,Universitetsuddannelse,0,1,2,2,5,180,6,7,4
+SE,30,2,1,61,Male,11,Gymnasial uddannelse,1,2,2,2,5,60,1,1,2
+SE,60,1,1,53,Male,15,Videregående uddannelse,1,1,1,2,5,840,4,2,2
+SE,10,3,1,56,Female,15,Gymnasial uddannelse,1,1,2,2,5,45,7,9,5
+SE,60,3,1,91,Male,9,Grundskole,0,2,2,2,1,NA,7,7,3
+SE,120,2,1,66,Female,15,Universitetsuddannelse,0,1,2,2,5,120,6,6,3
+SE,150,1,1,76,Female,11,Videregående uddannelse,0,1,2,2,5,90,6,6,4
+SE,30,3,1,76,Male,14,Universitetsuddannelse,0,1,2,1,5,30,2,2,3
+SE,60,2,1,38,Female,19,Universitetsuddannelse,0,1,2,2,5,90,6,7,3
+SE,120,2,1,70,Male,13,Gymnasial uddannelse,0,1,2,1,5,120,5,5,2
+SE,30,3,1,45,Male,12,Videregående uddannelse,1,2,2,2,5,180,4,4,2
+SE,30,1,1,45,Female,18,Universitetsuddannelse,1,1,2,2,5,720,6,6,4
+SE,10,2,1,44,Male,13,Gymnasial uddannelse,1,1,2,2,5,240,8,8,4
+SE,20,2,1,44,Male,17,Universitetsuddannelse,1,2,1,2,5,780,6,5,4
+SE,10,3,1,33,Female,12,Gymnasial uddannelse,0,2,1,2,5,120,8,8,2
+SE,45,2,1,42,Male,17,Universitetsuddannelse,1,1,2,2,5,480,7,8,4
+SE,15,2,1,42,Female,16,Universitetsuddannelse,1,3,1,2,5,300,7,7,3
+SE,30,2,1,40,Male,13,Gymnasial uddannelse,1,2,1,2,5,480,6,5,2
+SE,120,2,1,85,Female,14,Videregående uddannelse,0,1,2,2,5,180,4,2,1
+SE,10,4,1,33,Male,12,Gymnasial uddannelse,1,1,2,2,5,720,6,6,3
+SE,20,1,1,20,Male,11,Grundskole,0,1,1,2,5,480,0,2,4
+SE,120,1,1,68,Male,11,Gymnasial uddannelse,0,3,1,2,4,30,7,6,5
+SE,120,1,1,61,Female,17,Videregående uddannelse,1,1,1,1,5,420,9,8,4
+SE,NA,1,1,88,Male,16,Videregående uddannelse,0,1,2,2,5,240,3,3,3
+SE,40,3,1,25,Female,17,Universitetsuddannelse,1,2,2,2,5,720,5,5,3
+SE,60,3,1,59,Female,12,Videregående uddannelse,1,1,2,1,5,480,7,7,3
+SE,60,1,1,41,Male,12,Gymnasial uddannelse,1,1,2,2,5,240,5,5,3
+SE,15,2,1,40,Female,13,Gymnasial uddannelse,1,2,2,2,5,480,4,9,2
+SE,30,1,1,58,Male,14,Videregående uddannelse,1,4,2,2,5,540,5,6,5
+SE,60,3,1,36,Female,17,Universitetsuddannelse,1,1,2,2,5,180,5,5,2
+SE,60,2,1,62,Female,16,Videregående uddannelse,1,1,2,1,5,510,8,8,4
+SE,120,2,1,33,Male,21,Universitetsuddannelse,1,2,2,2,5,720,7,9,4
+SE,120,2,1,57,Female,13,Gymnasial uddannelse,1,1,2,2,5,120,6,6,3
+SE,90,2,1,72,Male,10,Grundskole,1,1,2,2,5,60,3,4,3
+SE,30,3,1,60,Male,9,Grundskole,1,1,2,2,5,120,5,5,2
+SE,NA,2,1,77,Female,10,Grundskole,0,3,1,1,5,240,5,5,3
+SE,55,2,1,62,Male,12,Gymnasial uddannelse,1,1,2,2,5,420,6,6,2
+SE,60,2,1,66,Male,17,Universitetsuddannelse,0,1,2,2,5,180,5,5,3
+SE,90,1,1,71,Male,17,Universitetsuddannelse,0,1,2,1,5,30,4,5,3
+SE,90,2,1,22,Female,12,Gymnasial uddannelse,0,1,2,2,5,720,5,4,2
+SE,30,2,1,39,Male,12,Gymnasial uddannelse,1,1,1,1,5,420,4,4,3
+SE,60,2,1,32,Male,18,Universitetsuddannelse,0,2,2,2,5,240,7,7,3
+SE,30,3,1,62,Male,12,Gymnasial uddannelse,1,1,2,2,5,120,5,5,1
+SE,30,2,1,51,Male,15,Gymnasial uddannelse,1,1,2,1,5,360,6,7,3
+SE,30,2,1,68,Male,14,Videregående uddannelse,0,2,2,2,5,120,0,2,2
+SE,60,1,1,48,Male,12,Gymnasial uddannelse,1,2,1,1,5,180,6,6,4
+SE,240,2,1,82,Female,12,Gymnasial uddannelse,0,2,2,2,3,NA,5,3,1
+SE,60,3,2,74,Male,12,Gymnasial uddannelse,1,2,2,2,5,120,4,3,1
+SE,30,2,1,42,Female,15,Universitetsuddannelse,1,1,2,2,5,480,5,5,2
+SE,120,2,1,60,Female,15,Videregående uddannelse,1,1,2,2,5,240,7,7,2
+SE,30,2,1,54,Male,10,Videregående uddannelse,1,1,2,2,5,600,0,1,NA
+SE,60,1,1,82,Female,13,Videregående uddannelse,0,2,2,2,5,120,6,7,3
+SE,10,3,1,32,Male,12,Grundskole,1,1,2,2,5,120,3,5,NA
+SE,60,2,1,78,Male,11,Gymnasial uddannelse,0,1,2,2,3,NA,6,7,2
+SE,60,2,1,31,Male,14,Universitetsuddannelse,1,1,2,2,5,480,4,3,3
+SE,20,3,1,39,Male,12,Gymnasial uddannelse,1,2,1,2,5,720,2,3,3
+SE,30,3,1,68,Female,10,Grundskole,1,1,2,2,4,30,6,6,3
+SE,60,4,1,71,Female,13,Gymnasial uddannelse,0,3,2,2,4,720,NA,1,1
+SE,90,2,1,76,Female,12,Gymnasial uddannelse,0,2,2,2,4,240,8,3,2
+SE,20,2,1,32,Male,16,Universitetsuddannelse,1,1,2,2,5,480,3,2,2
+SE,120,2,1,73,Female,15,Universitetsuddannelse,0,1,1,2,5,180,4,4,3
+SE,120,3,1,67,Female,16,Universitetsuddannelse,1,1,2,1,5,480,0,0,3
+SE,60,1,1,40,Male,13,Gymnasial uddannelse,1,1,2,2,5,300,3,5,1
+SE,15,4,1,71,Male,14,Videregående uddannelse,0,2,2,2,5,30,1,1,2
+SE,45,2,1,51,Female,17,Universitetsuddannelse,1,1,2,2,5,150,3,3,3
+SE,45,2,1,48,Male,15,Gymnasial uddannelse,1,1,1,1,4,0,5,8,3
+SE,30,3,1,55,Male,15,Universitetsuddannelse,1,1,2,2,5,90,7,8,2
+SE,NA,2,2,80,Female,9,Gymnasial uddannelse,0,1,1,1,5,720,4,5,3
+SE,90,2,1,62,Male,13,Videregående uddannelse,1,1,2,2,5,360,8,10,5
+SE,96,1,1,67,Female,22,Universitetsuddannelse,0,1,2,2,5,90,8,8,3
+SE,120,3,1,62,Female,15,Videregående uddannelse,1,1,2,2,5,480,5,7,2
+SE,210,1,1,73,Male,15,Universitetsuddannelse,0,1,2,2,5,180,6,3,2
+SE,90,1,1,73,Male,15,Videregående uddannelse,0,1,2,2,5,120,5,5,3
+SE,64,1,1,73,Male,12,Videregående uddannelse,0,1,2,2,5,70,6,6,2
+SE,60,2,1,75,Male,17,Videregående uddannelse,0,1,2,2,5,90,2,3,1
+SE,90,2,1,76,Male,12,Gymnasial uddannelse,0,2,2,2,4,60,3,4,3
+SE,60,3,1,75,Female,13,NA,0,2,2,2,5,120,6,6,2
+SE,60,2,1,42,Female,12,Gymnasial uddannelse,1,3,2,1,5,240,5,5,3
+SE,30,1,1,46,Female,16,Videregående uddannelse,1,2,1,1,5,300,5,5,1
+SE,0,2,1,40,Female,6,Universitetsuddannelse,0,1,1,2,5,540,0,0,3
+SE,60,1,1,53,Male,22,Universitetsuddannelse,1,1,2,2,5,180,5,5,4
+SE,10,4,1,26,Female,14,Videregående uddannelse,0,3,2,2,5,360,2,3,3
+SE,90,1,1,40,Female,17,Universitetsuddannelse,1,1,1,2,5,420,7,7,5
+SE,30,2,1,42,Male,18,Universitetsuddannelse,1,2,2,2,5,720,7,7,2
+SE,30,3,1,30,Female,11,Universitetsuddannelse,0,2,1,2,5,240,3,4,3
+SE,20,2,1,48,Male,16,Universitetsuddannelse,1,1,2,2,5,480,2,2,3
+SE,40,3,1,74,Male,16,Gymnasial uddannelse,0,1,2,2,5,480,6,7,3
+SE,30,1,1,33,Male,12,Gymnasial uddannelse,1,1,2,2,5,420,7,7,2
+SE,180,3,1,75,Female,14,Videregående uddannelse,0,2,2,2,5,90,5,5,1
+SE,90,1,1,66,Male,13,Gymnasial uddannelse,1,1,1,1,5,150,8,8,5
+SE,4,2,2,28,Male,9,Gymnasial uddannelse,1,2,2,2,5,360,8,5,1
+SE,90,1,1,43,Female,20,Universitetsuddannelse,1,2,2,2,5,240,6,6,3
+SE,120,2,1,56,Female,11,Gymnasial uddannelse,1,2,2,2,5,90,3,3,2
+SE,0,2,1,77,Male,13,Videregående uddannelse,0,1,2,2,5,60,2,2,1
+SE,60,2,1,34,Female,20,Universitetsuddannelse,1,2,2,2,5,300,7,7,3
+SE,150,2,1,84,Male,10,Grundskole,0,1,2,2,2,NA,6,5,2
+SE,120,2,1,49,Female,16,Universitetsuddannelse,1,1,2,2,5,360,4,7,3
+SE,60,2,1,63,Male,15,Universitetsuddannelse,1,1,2,2,5,60,7,7,3
+SE,30,2,1,62,Male,16,Videregående uddannelse,0,1,2,2,5,120,9,7,3
+SE,NA,2,1,82,Female,13,Gymnasial uddannelse,0,1,1,1,5,120,6,5,3
+SE,30,1,1,37,Female,21,Universitetsuddannelse,1,1,1,2,5,660,5,7,4
+SE,60,1,1,73,Female,9,Grundskole,0,1,2,2,5,30,5,5,2
+SE,30,2,1,34,Male,12,Gymnasial uddannelse,1,1,1,2,5,240,3,4,3
+SE,10,1,1,57,Female,17,Universitetsuddannelse,1,1,1,2,5,300,6,6,5
+SE,60,2,1,30,Female,13,Gymnasial uddannelse,1,1,2,2,5,300,5,5,3
+SE,10,2,1,50,Male,12,Gymnasial uddannelse,1,2,2,2,5,120,5,5,2
+SE,30,2,1,49,Male,15,Videregående uddannelse,1,1,2,2,5,90,4,4,3
+SE,NA,3,1,80,Male,8,Grundskole,1,1,2,2,1,NA,4,6,2
+SE,150,1,1,64,Female,12,Gymnasial uddannelse,1,1,2,2,5,600,2,2,3
+SE,10,3,1,34,Male,12,Gymnasial uddannelse,0,2,2,2,5,240,4,5,3
+SE,30,3,1,47,Female,20,Universitetsuddannelse,1,2,2,2,5,300,4,4,1
+SE,105,1,1,72,Male,16,Videregående uddannelse,1,1,2,1,5,105,6,6,3
+SE,120,3,1,38,Female,19,Universitetsuddannelse,1,1,2,2,5,360,7,7,4
+SE,120,3,1,68,Male,16,Videregående uddannelse,0,1,2,NA,3,NA,5,5,1
+SE,15,3,1,38,Female,4,Grundskole,1,2,2,2,5,120,8,7,3
+SE,30,2,1,31,Female,15,Universitetsuddannelse,1,1,1,2,5,480,7,8,4
+SE,60,2,1,77,Female,17,Universitetsuddannelse,0,2,2,2,5,120,7,3,3
+SE,180,2,1,76,Female,18,Universitetsuddannelse,0,4,2,1,5,120,6,6,3
+SE,120,2,1,61,Male,17,Universitetsuddannelse,0,1,2,1,5,60,5,5,2
+SE,90,1,1,35,Male,13,Videregående uddannelse,1,2,2,2,5,300,5,6,4
+SE,30,3,1,80,Male,15,Gymnasial uddannelse,0,1,2,2,5,120,7,6,2
+SE,20,3,1,47,Female,18,Universitetsuddannelse,1,1,2,2,5,120,4,5,1
+SE,120,2,1,76,Male,9,Grundskole,0,2,2,2,3,NA,3,3,1
+SE,40,3,1,65,Female,13,Videregående uddannelse,1,2,NA,2,5,60,3,3,1
+SE,60,2,1,66,Male,13,Videregående uddannelse,1,1,2,1,5,240,7,6,3
+SE,10,2,1,37,Female,19,Universitetsuddannelse,1,1,1,1,5,420,7,7,3
+SE,60,2,1,61,Female,15,Videregående uddannelse,0,2,2,2,5,15,5,5,2
+SE,20,3,1,60,Male,15,Videregående uddannelse,1,1,2,2,5,180,5,5,3
+SE,30,2,1,88,Male,20,Universitetsuddannelse,0,1,2,2,1,NA,4,5,3
+SE,30,3,1,65,Male,12,Gymnasial uddannelse,1,1,2,1,5,180,5,4,3
+SE,90,1,1,62,Male,20,Videregående uddannelse,1,1,2,2,5,360,NA,7,3
+SE,60,2,1,66,Male,14,Videregående uddannelse,0,2,2,2,5,15,7,7,3
+SE,120,2,1,90,Female,NA,Grundskole,0,2,2,2,1,NA,3,4,1
+SE,120,2,1,56,Female,11,Gymnasial uddannelse,1,1,2,2,5,600,4,4,3
+SE,105,2,1,71,Female,13,Videregående uddannelse,1,2,2,2,5,60,3,3,2
+SE,0,2,1,59,Male,12,Videregående uddannelse,1,2,2,2,5,45,3,3,2
+SE,60,2,1,45,Male,13,Videregående uddannelse,1,1,2,2,5,600,8,8,1
+SE,180,2,1,61,Female,13,Gymnasial uddannelse,1,2,1,2,5,480,6,6,2
+SE,30,2,1,31,Female,15,Universitetsuddannelse,0,1,1,2,5,210,7,7,4
+SE,0,2,1,61,Female,14,NA,0,2,2,2,1,NA,2,3,2
+SE,60,4,1,51,Male,14,Gymnasial uddannelse,1,1,2,2,5,240,4,5,1
+SE,0,3,1,31,Female,17,Videregående uddannelse,1,2,2,2,5,60,0,0,2
+SE,30,3,1,60,Male,9,Grundskole,1,1,2,2,5,20,5,6,2
+SE,60,1,1,22,Female,15,Gymnasial uddannelse,0,2,1,2,5,480,2,2,5
+SE,240,3,1,54,Female,15,Universitetsuddannelse,1,1,2,2,5,240,7,7,3
+SE,120,2,1,79,Male,8,Grundskole,0,2,2,2,5,240,6,6,3
+SE,20,2,1,53,Male,19,Universitetsuddannelse,1,1,2,2,5,480,8,8,3
+SE,90,1,1,79,Male,14,Universitetsuddannelse,0,1,1,2,5,120,4,4,3
+SE,60,2,1,43,Male,12,Videregående uddannelse,1,1,2,2,5,240,6,4,3
+SE,120,1,1,85,Female,18,Universitetsuddannelse,0,1,2,2,5,120,7,7,3
+SE,60,2,1,34,Female,17,Videregående uddannelse,1,1,1,2,5,480,4,5,2
+SE,240,2,1,74,Male,11,Grundskole,0,2,1,2,4,60,2,2,3
+SE,90,1,1,64,Female,12,Gymnasial uddannelse,1,1,2,2,5,60,7,7,1
+SE,0,4,2,30,Female,20,Universitetsuddannelse,0,2,1,2,5,600,2,0,2
+SE,120,1,1,46,Male,16,Videregående uddannelse,1,1,2,1,5,600,6,6,3
+SE,45,2,1,78,Female,12,Gymnasial uddannelse,0,1,2,2,2,NA,5,5,2
+SE,240,1,1,72,Male,18,Videregående uddannelse,1,2,1,2,5,240,3,5,5
+SE,15,1,1,43,Male,20,Universitetsuddannelse,1,1,1,2,5,NA,3,4,3
+SE,60,4,2,39,Female,12,Videregående uddannelse,0,3,2,1,5,120,0,0,1
+SE,60,2,1,53,Female,17,Universitetsuddannelse,1,1,2,1,5,60,6,4,3
+SE,60,4,2,52,Female,13,Gymnasial uddannelse,0,1,2,2,5,180,6,5,1
+SE,60,2,1,65,Male,20,Universitetsuddannelse,1,1,1,2,4,120,5,4,3
+SE,60,3,1,49,Male,14,Videregående uddannelse,1,2,2,1,5,180,2,0,1
+SE,180,1,1,82,Male,10,Videregående uddannelse,0,1,2,2,2,NA,5,6,2
+SE,75,2,1,55,Male,15,Universitetsuddannelse,1,1,2,2,5,20,7,6,3
+SE,60,2,1,50,Female,22,Universitetsuddannelse,1,2,2,2,5,240,4,4,2
+SE,NA,1,1,64,Male,18,Universitetsuddannelse,1,1,1,2,5,600,5,5,5
+SE,30,3,1,61,Male,15,Universitetsuddannelse,1,1,2,2,5,180,5,5,2
+SE,45,2,1,52,Female,17,Universitetsuddannelse,1,2,2,2,5,90,4,6,3
+SE,60,3,1,63,Female,14,Videregående uddannelse,0,1,2,1,5,60,7,7,3
+SE,120,1,1,61,Female,16,Universitetsuddannelse,1,1,2,1,5,60,6,7,3
+SE,10,3,1,26,Male,13,Gymnasial uddannelse,1,2,2,2,5,90,2,3,2
+SE,30,1,1,66,Male,11,Gymnasial uddannelse,1,2,2,2,5,120,1,1,2
+SE,60,2,1,45,Female,14,Gymnasial uddannelse,0,2,2,2,5,180,2,4,2
+SE,30,1,1,30,Male,15,Universitetsuddannelse,1,1,2,2,5,600,5,5,4
+SE,30,3,2,27,Female,15,Universitetsuddannelse,1,2,2,2,5,540,8,6,2
+SE,180,1,1,75,Female,10,Gymnasial uddannelse,0,2,2,2,5,120,7,8,2
+SE,30,2,1,48,Male,12,Gymnasial uddannelse,1,2,2,2,5,180,3,3,3
+SE,180,1,1,77,Male,11,Grundskole,0,2,2,2,5,60,4,3,3
+SE,120,2,1,86,Male,9,Gymnasial uddannelse,0,1,2,2,5,300,6,6,1
+SE,60,1,1,60,Female,19,Universitetsuddannelse,1,1,1,2,5,570,5,6,3
+SE,NA,1,1,31,Male,16,Universitetsuddannelse,1,1,2,1,5,720,1,1,4
+SE,10,2,1,35,Female,12,Gymnasial uddannelse,0,3,1,2,5,360,5,5,2
+SE,20,3,1,65,Male,9,Grundskole,1,1,2,2,5,360,5,5,2
+SE,0,4,2,63,Female,13,Videregående uddannelse,1,1,2,2,5,120,8,NA,NA
+SE,20,2,1,21,Female,13,Gymnasial uddannelse,0,1,1,2,5,240,1,0,3
+SE,60,2,1,85,Male,13,Gymnasial uddannelse,0,2,2,2,4,50,4,4,2
+SE,15,3,1,82,Male,9,Grundskole,0,1,2,2,5,90,7,7,2
+SE,60,2,1,41,Male,18,Universitetsuddannelse,1,2,2,2,5,600,3,5,3
+SE,30,3,1,75,Male,12,Gymnasial uddannelse,0,2,2,2,5,60,2,3,2
+SE,60,2,1,62,Female,11,Gymnasial uddannelse,1,2,2,2,5,60,5,6,3
+SE,45,2,1,53,Male,17,Universitetsuddannelse,1,1,2,2,5,600,7,7,4
+SE,120,1,1,66,Male,16,Universitetsuddannelse,1,1,1,1,5,480,7,7,3
+SE,15,3,1,61,Male,9,Grundskole,1,NA,2,2,4,30,4,5,3
+SE,60,2,1,73,Male,18,NA,1,1,2,2,5,300,3,3,4
+SE,45,2,1,32,Male,17,Universitetsuddannelse,1,1,2,2,5,360,7,7,3
+SE,45,2,1,54,Male,17,Universitetsuddannelse,1,2,1,2,5,360,7,7,3
+SE,30,3,1,78,Female,14,Videregående uddannelse,0,2,2,2,4,90,1,1,2
+SE,5,3,1,39,Male,17,Universitetsuddannelse,1,1,2,2,5,120,6,4,1
+SE,30,2,1,22,Male,13,Gymnasial uddannelse,1,1,2,2,5,600,8,7,4
+SE,60,3,1,61,Female,16,Universitetsuddannelse,1,1,1,2,5,360,7,7,1
+SE,NA,1,1,78,Female,21,Universitetsuddannelse,0,2,1,1,5,180,1,3,3
+SE,90,1,1,47,Male,13,Gymnasial uddannelse,1,1,1,2,5,600,4,5,4
+SE,240,1,1,64,Female,4,Gymnasial uddannelse,0,1,2,2,5,420,NA,3,1
+SE,60,1,1,25,Female,16,Universitetsuddannelse,1,4,1,2,5,600,5,6,5
+SE,30,2,1,57,Male,13,Videregående uddannelse,1,1,2,2,5,600,3,3,3
+SE,NA,1,1,78,Female,16,Universitetsuddannelse,0,1,2,2,5,30,7,7,2
+SE,45,3,1,65,Female,17,Universitetsuddannelse,1,2,1,1,5,120,6,7,2
+SE,120,1,1,70,Male,14,Videregående uddannelse,0,2,1,2,5,150,6,6,3
+SE,30,4,1,34,Male,17,Universitetsuddannelse,1,1,2,2,5,840,4,4,NA
+SE,80,3,1,32,Female,12,Gymnasial uddannelse,1,1,2,2,5,300,1,0,3
+SE,60,2,1,52,Female,19,Universitetsuddannelse,1,1,2,2,5,480,6,6,4
+SE,60,2,1,81,Female,8,Grundskole,0,1,2,2,5,60,4,4,1
+SE,60,1,1,24,Male,13,Gymnasial uddannelse,0,3,2,2,5,420,8,8,5
+SE,NA,4,1,54,Male,16,Universitetsuddannelse,1,1,2,1,5,180,5,5,3
+SE,10,3,1,20,Male,9,Grundskole,0,1,1,2,5,360,3,3,1
+SE,60,2,1,55,Female,15,Universitetsuddannelse,1,1,2,2,5,540,6,6,5
+SE,20,2,1,40,Male,13,Videregående uddannelse,1,2,2,1,5,120,4,4,3
+SE,120,2,1,73,Female,9,Grundskole,0,1,2,2,5,120,4,5,2
+SE,30,2,1,28,Female,21,Universitetsuddannelse,0,2,1,2,5,360,6,3,2
+SE,15,3,2,44,Female,20,Universitetsuddannelse,1,2,2,2,5,60,2,2,1
+SE,20,1,1,51,Male,20,Universitetsuddannelse,1,1,2,2,5,180,5,5,2
+SE,120,2,1,58,Male,14,Videregående uddannelse,1,2,1,1,5,60,6,7,3
+SE,60,2,1,31,Male,12,Gymnasial uddannelse,0,3,2,2,5,240,4,3,2
+SE,5,3,1,43,Male,13,Videregående uddannelse,0,2,2,2,5,30,9,10,3
+SE,30,2,1,90,Female,11,Universitetsuddannelse,0,2,2,2,1,NA,5,5,2
+SE,60,2,1,68,Male,11,Gymnasial uddannelse,0,1,2,NA,5,30,5,7,2
+SE,NA,2,1,80,Female,8,Universitetsuddannelse,0,2,1,1,4,240,8,8,NA
+SE,60,2,1,58,Male,14,Videregående uddannelse,1,1,1,1,5,600,7,7,5
+SE,60,2,1,72,Female,11,Gymnasial uddannelse,0,2,2,2,5,120,5,5,2
+SE,60,4,1,69,Female,13,Gymnasial uddannelse,1,1,2,2,5,120,4,4,2
+SE,30,3,1,59,Female,12,Gymnasial uddannelse,1,1,2,2,5,60,4,4,1
+SE,180,1,1,71,Male,17,NA,1,1,2,2,5,90,5,5,3
+SE,120,3,1,87,Female,9,Gymnasial uddannelse,0,1,2,NA,2,NA,5,5,1
+SE,60,2,1,76,Female,8,Grundskole,0,2,2,2,5,60,7,3,2
+SE,15,3,1,45,Female,14,Videregående uddannelse,1,1,2,2,5,240,5,5,1
+SE,120,3,1,79,Male,12,Gymnasial uddannelse,0,NA,2,2,5,90,2,1,2
+SE,20,3,1,32,Female,13,Videregående uddannelse,1,1,1,1,5,90,3,5,2
+SE,30,4,2,31,Male,12,Gymnasial uddannelse,1,1,2,2,4,540,5,4,NA
+SE,60,1,1,25,Male,15,Videregående uddannelse,0,1,2,2,5,180,7,8,4
+SE,5,3,1,31,Female,12,Gymnasial uddannelse,0,3,1,2,5,NA,2,2,1
+SE,30,2,1,25,Female,12,Gymnasial uddannelse,1,1,2,2,5,240,6,7,4
+SE,30,1,1,66,Male,9,Grundskole,1,1,2,1,4,45,7,7,4
+SE,10,2,1,54,Male,15,Videregående uddannelse,1,1,1,2,5,180,2,2,3
+SE,0,4,1,51,Female,15,Universitetsuddannelse,1,1,2,2,5,720,4,4,2
+SE,30,3,1,28,Male,15,Universitetsuddannelse,1,1,2,2,5,600,6,6,5
+SE,180,2,1,79,Male,17,Videregående uddannelse,0,1,1,1,5,90,5,7,4
+SE,30,2,1,56,Male,13,Gymnasial uddannelse,1,1,2,2,5,60,6,6,3
+SE,60,2,1,55,Male,17,Universitetsuddannelse,1,1,2,2,5,180,3,2,2
+SE,60,1,1,54,Male,15,Videregående uddannelse,1,1,1,1,5,360,1,1,4
+SE,90,2,1,89,Male,16,Videregående uddannelse,0,1,2,2,1,NA,4,NA,2
+SE,20,2,1,24,Male,16,Videregående uddannelse,1,2,2,2,5,150,5,5,3
+SE,120,2,1,79,Male,10,Gymnasial uddannelse,0,1,2,2,5,180,6,6,3
+SE,30,1,1,58,Male,20,Universitetsuddannelse,1,1,1,1,5,180,7,8,5
+SE,60,2,1,39,Male,15,Videregående uddannelse,1,1,2,2,5,600,5,4,3
+SE,30,3,1,78,Female,14,Gymnasial uddannelse,1,2,1,2,5,30,3,4,3
+SE,90,2,1,85,Female,8,Grundskole,0,1,2,2,1,NA,5,10,2
+SE,10,3,1,20,Female,12,Gymnasial uddannelse,0,1,2,2,5,300,4,3,2
+SE,45,2,1,71,Female,20,Universitetsuddannelse,0,1,1,2,5,90,4,5,3
+SE,20,3,1,58,Male,16,Gymnasial uddannelse,1,1,1,2,5,420,8,8,2
+SE,90,2,1,50,Male,19,Universitetsuddannelse,1,1,2,2,4,720,5,5,4
+SE,60,1,1,73,Female,18,Universitetsuddannelse,0,1,2,1,5,90,7,7,3
+SE,30,2,1,86,Male,7,Grundskole,0,1,2,2,5,120,3,3,1
+SE,30,2,1,53,Female,15,Universitetsuddannelse,1,1,1,2,5,480,8,5,3
+SE,60,1,1,35,Male,14,Videregående uddannelse,1,2,2,2,5,600,5,6,3
+SE,NA,3,1,65,Female,12,Gymnasial uddannelse,1,2,2,2,5,600,2,2,1
+SE,60,2,1,42,Female,21,Universitetsuddannelse,1,1,2,2,5,240,4,4,2
+SE,45,2,1,72,Male,14,Videregående uddannelse,0,1,1,1,5,100,3,4,4
+SE,30,2,1,86,Female,15,Videregående uddannelse,0,1,2,2,5,90,5,4,1
+SE,90,2,1,53,Male,18,Universitetsuddannelse,1,1,2,2,5,150,6,6,4
+SE,60,2,1,27,Male,15,Videregående uddannelse,0,2,2,2,5,360,5,5,2
+SE,15,1,1,21,Male,13,Universitetsuddannelse,0,2,1,2,5,360,7,7,4
+SE,60,2,1,74,Male,10,Gymnasial uddannelse,0,1,2,2,5,NA,5,5,2
+SE,90,4,1,25,Female,13,Gymnasial uddannelse,0,1,2,2,5,360,5,4,2
+SE,10,3,2,22,Female,16,Gymnasial uddannelse,0,1,1,2,5,NA,1,2,2
+SE,180,2,1,84,Male,17,Videregående uddannelse,0,1,2,1,5,180,7,7,3
+SE,0,3,1,25,Male,12,Gymnasial uddannelse,0,1,2,2,5,210,2,3,1
+SE,90,3,1,34,Male,18,Universitetsuddannelse,1,2,2,2,5,720,3,5,3
+SE,180,1,1,70,Male,NA,Grundskole,0,2,2,1,4,120,1,4,1
+SE,20,2,1,41,Female,16,Universitetsuddannelse,1,1,2,2,5,600,6,7,3
+SE,60,1,1,56,Female,18,Universitetsuddannelse,1,2,1,1,5,300,6,6,4
+SE,30,2,1,67,Male,10,Grundskole,1,1,2,2,5,240,4,5,1
+SE,60,1,1,65,Female,12,Gymnasial uddannelse,0,1,2,2,5,90,8,7,3
+SE,30,2,1,31,Male,13,Videregående uddannelse,1,1,2,2,5,420,5,5,2
+SE,120,2,1,33,Male,15,Universitetsuddannelse,1,1,2,1,5,480,7,8,4
+SE,150,2,1,87,Male,11,Gymnasial uddannelse,0,1,2,2,1,NA,3,3,1
+SE,NA,1,1,80,Female,23,Gymnasial uddannelse,0,2,2,2,5,120,1,2,3
+SE,60,2,1,62,Female,13,Videregående uddannelse,1,1,2,2,5,30,5,4,2
+SE,30,4,1,59,Female,11,Gymnasial uddannelse,0,1,2,2,5,300,0,0,2
+SE,120,1,1,42,Female,17,Universitetsuddannelse,1,2,2,2,5,600,6,7,4
+SE,50,2,1,64,Male,18,Universitetsuddannelse,1,1,2,1,5,20,6,8,3
+SE,60,2,1,35,Male,16,Universitetsuddannelse,0,2,2,2,5,240,5,6,2
+SE,60,1,1,73,Male,15,Universitetsuddannelse,0,1,1,1,5,180,2,2,3
+SE,120,2,1,74,Male,16,Videregående uddannelse,0,1,2,2,5,120,6,6,3
+SE,60,2,2,42,Female,20,Universitetsuddannelse,0,1,2,2,5,30,3,5,3
+SE,240,1,1,70,Male,17,Universitetsuddannelse,0,1,1,1,5,360,6,6,5
+SE,90,3,1,78,Female,8,Grundskole,0,1,2,2,4,120,2,0,1
+SE,60,4,1,85,Male,7,Grundskole,0,2,2,2,2,NA,4,4,1
+SE,0,1,1,21,Female,10,Gymnasial uddannelse,0,3,2,2,5,600,7,7,4
+SE,5,1,1,39,Male,15,Videregående uddannelse,1,2,1,2,5,720,3,4,3
+SE,90,2,1,84,Male,12,Videregående uddannelse,0,2,2,2,5,120,6,6,4
+SE,75,3,1,49,Female,18,Universitetsuddannelse,1,1,2,2,5,600,3,3,2
+SE,60,3,1,20,Male,11,Grundskole,0,1,2,2,5,420,6,6,3
+SE,150,1,1,46,Male,16,Universitetsuddannelse,1,1,1,2,5,NA,4,7,4
+SE,30,1,1,36,Female,17,Videregående uddannelse,1,2,1,2,5,150,4,0,5
+SE,120,2,1,61,Male,11,Gymnasial uddannelse,1,2,2,2,2,NA,6,6,2
+SE,60,3,1,79,Female,8,Grundskole,0,2,2,2,4,60,2,2,1
+SE,90,2,1,42,Male,12,Gymnasial uddannelse,1,1,2,2,5,120,3,2,2
+SE,90,2,1,89,Female,18,Universitetsuddannelse,0,1,2,2,2,NA,7,5,2
+SE,120,2,1,43,Female,17,Universitetsuddannelse,1,3,1,2,5,720,5,7,4
+SE,90,2,1,75,Male,8,Grundskole,0,1,2,1,5,30,7,7,3
+SE,120,2,1,52,Male,13,Videregående uddannelse,1,2,2,1,5,240,7,6,5
+SE,60,2,1,47,Female,19,Universitetsuddannelse,1,2,1,2,5,600,4,3,3
+SE,240,1,1,67,Female,19,Universitetsuddannelse,0,1,2,2,5,420,8,8,4
+SE,60,2,1,41,Male,15,Videregående uddannelse,1,1,2,1,5,600,3,3,2
+SE,15,2,1,66,Female,12,Gymnasial uddannelse,0,2,2,2,5,60,6,6,2
+SE,60,1,1,56,Female,15,Videregående uddannelse,1,1,1,1,5,360,4,3,2
+SE,180,4,1,71,Female,10,Videregående uddannelse,0,1,2,2,5,420,0,3,1
+SE,60,1,1,70,Male,12,Universitetsuddannelse,0,1,2,1,5,120,5,4,3
+SE,240,2,1,81,Male,21,Universitetsuddannelse,0,1,2,2,5,120,7,6,5
+SE,30,2,2,49,Male,14,Videregående uddannelse,1,1,2,2,5,120,3,4,3
+SE,20,2,1,59,Male,11,Gymnasial uddannelse,1,1,1,2,5,240,8,7,2
+SE,60,1,1,66,Male,12,Gymnasial uddannelse,0,1,2,2,5,90,2,2,2
+SE,60,3,1,24,Male,12,Gymnasial uddannelse,0,1,2,2,5,180,7,7,3
+SE,240,3,1,69,Female,13,Gymnasial uddannelse,1,1,2,2,4,300,5,5,2
+SE,120,1,1,81,Male,13,Universitetsuddannelse,0,1,2,2,5,108,5,5,4
+SE,30,NA,2,36,Female,11,Gymnasial uddannelse,0,3,2,2,5,240,NA,NA,1
+SE,90,1,1,31,Male,20,Universitetsuddannelse,1,1,2,2,5,420,4,4,4
+SE,210,2,1,58,Female,11,Grundskole,1,2,2,2,5,240,7,5,2
+SE,30,2,1,74,Female,9,Grundskole,0,1,2,2,5,90,5,5,3
+SE,105,2,1,82,Female,17,Videregående uddannelse,0,1,2,2,5,60,7,7,1
+SE,60,2,1,73,Female,14,Universitetsuddannelse,0,2,2,2,3,NA,7,5,3
+SE,60,2,1,64,Female,13,Gymnasial uddannelse,1,1,1,2,5,600,7,6,4
+SE,60,2,1,55,Male,12,Videregående uddannelse,1,1,2,2,5,15,5,7,1
+SE,30,2,1,55,Female,14,Videregående uddannelse,1,2,2,2,5,90,6,5,2
+SE,150,2,1,80,Male,15,Universitetsuddannelse,0,2,1,1,5,30,7,6,3
+SE,60,1,1,49,Female,21,Universitetsuddannelse,1,1,NA,2,5,90,10,0,2
+SE,20,2,1,65,Female,8,Grundskole,0,3,2,2,5,300,5,3,2
+SE,10,2,1,22,Female,15,Gymnasial uddannelse,0,3,1,2,5,360,5,5,2
+SE,90,1,1,76,Female,11,Videregående uddannelse,0,2,2,2,5,150,6,6,3
+SE,75,2,1,72,Male,11,Gymnasial uddannelse,0,1,2,2,4,120,3,3,2
+SE,210,1,1,81,Male,17,Universitetsuddannelse,0,1,2,2,5,60,7,7,4
+SE,60,1,1,72,Male,10,Videregående uddannelse,0,1,2,1,1,NA,2,4,3
+SE,90,3,1,67,Female,11,Videregående uddannelse,0,2,2,2,5,60,4,4,1
+SE,60,1,1,68,Male,12,Gymnasial uddannelse,0,1,2,2,5,120,6,6,3
+SE,90,1,1,74,Male,13,Gymnasial uddannelse,0,2,1,1,5,30,7,8,4
+SE,30,2,1,29,Male,18,Universitetsuddannelse,1,1,2,2,5,600,5,6,4
+SE,90,2,1,67,Male,22,Universitetsuddannelse,1,1,2,2,5,120,7,7,4
+SE,45,2,1,66,Male,9,Grundskole,1,1,2,2,5,60,7,7,2
+SE,30,3,1,60,Male,12,Gymnasial uddannelse,1,1,2,2,5,480,6,6,2
+SE,120,3,1,67,Male,17,Universitetsuddannelse,0,1,2,2,5,300,1,1,4
+SE,20,2,1,63,Male,14,Gymnasial uddannelse,1,1,2,2,5,60,7,7,1
+SE,45,1,1,58,Male,20,Universitetsuddannelse,1,1,2,2,5,540,7,5,3
+SE,120,3,1,63,Male,13,Videregående uddannelse,0,2,2,2,5,120,6,6,3
+SE,60,2,1,36,Female,17,Universitetsuddannelse,1,1,1,2,5,480,6,7,3
+SE,180,2,1,65,Female,15,Universitetsuddannelse,1,1,2,2,5,180,4,5,3
+SE,90,2,1,36,Male,18,Universitetsuddannelse,1,1,2,2,5,720,4,4,3
+SE,30,2,1,62,Female,18,Universitetsuddannelse,1,1,2,2,5,60,5,5,4
+SE,120,2,1,30,Male,17,Universitetsuddannelse,1,2,1,2,5,420,3,4,3
+SE,150,3,1,49,Female,16,Universitetsuddannelse,1,1,2,1,5,540,5,5,2
+SE,60,4,1,20,Female,10,Gymnasial uddannelse,1,2,2,2,5,420,5,5,2
+SE,45,2,1,56,Male,18,Universitetsuddannelse,1,1,2,2,5,360,8,8,4
+SE,30,3,1,35,Female,15,Universitetsuddannelse,1,1,2,2,5,360,3,3,2
+SE,60,2,1,67,Female,13,Videregående uddannelse,0,1,1,1,5,30,4,4,2
+SE,0,3,2,36,Male,14,Gymnasial uddannelse,0,4,2,2,4,240,2,3,3
+SE,120,2,1,69,Male,14,Gymnasial uddannelse,0,1,1,2,5,360,8,8,5
+SE,210,1,1,81,Male,16,Videregående uddannelse,0,1,2,1,5,60,8,6,4
+SE,NA,1,1,69,Female,9,Grundskole,1,2,1,1,5,240,8,2,3
+SE,90,1,1,61,Male,20,Universitetsuddannelse,1,1,2,1,5,720,1,3,4
+SE,60,2,1,23,Female,15,Universitetsuddannelse,0,2,2,NA,5,600,7,7,4
+SE,120,1,1,79,Male,14,Grundskole,0,1,1,1,5,30,5,5,3
+SE,120,1,1,86,Male,23,Universitetsuddannelse,0,1,1,2,5,60,6,7,3
+SE,60,2,1,65,Male,9,Grundskole,1,2,2,2,5,120,5,5,1
+SE,60,2,1,63,Male,14,Videregående uddannelse,1,1,2,2,5,60,7,6,2
+SE,120,1,1,77,Male,10,Gymnasial uddannelse,0,1,2,2,5,180,5,6,1
+SE,120,2,1,82,Female,18,Gymnasial uddannelse,0,2,2,2,5,30,4,6,1
+SE,0,3,1,50,Female,14,Gymnasial uddannelse,1,2,2,2,5,60,6,5,1
+SE,30,1,1,35,Female,18,Universitetsuddannelse,1,1,1,2,5,360,5,5,3
+SE,45,2,1,61,Female,15,Universitetsuddannelse,1,1,2,2,5,120,4,4,2
+SE,60,2,1,65,Female,13,Videregående uddannelse,1,1,2,2,5,300,4,4,3
+SE,60,3,1,53,Female,14,Universitetsuddannelse,1,1,2,2,5,480,2,3,3
+SE,120,3,1,84,Male,10,Grundskole,0,1,2,2,5,120,3,3,2
+SE,90,2,1,67,Female,12,Gymnasial uddannelse,0,2,2,2,5,180,3,5,3
+SE,60,1,1,60,Female,12,Gymnasial uddannelse,1,1,2,2,5,180,5,5,1
+SE,240,4,1,91,Male,6,Grundskole,0,1,2,2,1,NA,NA,NA,1
+SE,30,1,1,76,Male,13,Gymnasial uddannelse,0,1,2,2,5,30,7,7,3
+SE,60,1,1,71,Female,11,Gymnasial uddannelse,0,1,2,1,4,30,8,8,5
+SE,45,2,1,76,Male,19,Universitetsuddannelse,1,1,2,1,5,120,7,6,4
+SE,90,2,1,49,Female,14,Videregående uddannelse,1,2,1,1,5,720,4,3,3
+SE,30,2,1,59,Female,17,Universitetsuddannelse,1,1,2,2,5,600,3,4,2
+SE,NA,2,1,82,Female,16,Universitetsuddannelse,0,1,1,2,5,240,3,4,2
+SE,75,1,1,69,Female,18,Universitetsuddannelse,1,1,2,2,5,90,5,5,3
+SE,45,1,1,30,Male,19,Universitetsuddannelse,1,1,2,2,5,720,5,5,NA
+SE,0,3,1,48,Female,NA,Universitetsuddannelse,1,1,2,2,5,240,5,6,2
+SE,60,3,1,47,Female,17,Universitetsuddannelse,0,1,2,2,5,120,2,2,1
+SE,120,2,1,67,Male,18,Universitetsuddannelse,0,2,2,2,5,180,4,2,1
+SE,180,1,1,25,Male,15,Gymnasial uddannelse,0,1,1,1,5,300,4,7,3
+SE,5,2,1,39,Female,14,Gymnasial uddannelse,1,2,2,1,5,120,7,7,3
+SE,60,2,1,71,Male,20,Universitetsuddannelse,0,1,2,2,5,60,7,7,2
+SE,30,3,1,62,Female,11,Videregående uddannelse,0,1,2,1,5,150,5,5,1
+SE,30,2,1,37,Male,16,Universitetsuddannelse,1,1,2,2,5,150,6,7,2
+SE,0,2,1,54,Female,14,Gymnasial uddannelse,1,1,2,1,5,360,6,5,4
+SE,60,2,1,68,Male,11,Gymnasial uddannelse,0,1,2,2,5,90,3,4,1
+SE,10,3,1,60,Female,17,Universitetsuddannelse,1,2,2,2,5,660,7,6,2
+SE,90,2,1,67,Female,13,Gymnasial uddannelse,0,1,2,2,4,60,5,4,2
+SE,180,2,1,81,Male,7,Grundskole,0,2,2,2,2,NA,2,3,1
+SE,20,2,1,36,Female,20,Universitetsuddannelse,1,1,2,2,5,840,5,6,4
+SE,120,3,1,68,Female,12,Gymnasial uddannelse,1,1,2,2,5,660,7,7,2
+SE,7,3,1,68,Female,12,Gymnasial uddannelse,1,2,1,2,5,120,4,4,3
+SE,60,1,1,64,Male,16,Universitetsuddannelse,0,1,1,2,5,360,5,4,4
+SE,30,3,1,65,Male,11,Gymnasial uddannelse,0,2,1,2,5,180,0,2,1
+SE,120,2,1,51,Female,15,Videregående uddannelse,1,2,2,2,5,720,5,5,3
+SE,60,2,1,45,Male,15,Videregående uddannelse,1,1,2,1,5,540,6,5,3
+SE,60,2,1,73,Male,11,Gymnasial uddannelse,0,1,2,2,5,120,1,1,1
+SE,180,3,1,66,Male,13,Gymnasial uddannelse,1,2,2,2,2,NA,5,5,2
+SE,60,2,1,62,Male,11,Gymnasial uddannelse,1,1,1,1,5,180,7,7,2
+SE,30,1,1,77,Female,16,Universitetsuddannelse,0,3,2,2,5,30,6,6,3
+SE,60,2,1,75,Male,6,Videregående uddannelse,0,2,2,2,5,120,3,3,2
+SE,90,2,1,63,Female,19,Universitetsuddannelse,1,1,2,2,5,195,5,6,2
+SE,120,1,1,84,Male,12,Videregående uddannelse,0,2,1,2,5,30,6,5,3
+SE,120,2,1,61,Male,12,Gymnasial uddannelse,1,1,2,2,5,120,7,7,3
+SE,5,2,1,21,Female,13,Gymnasial uddannelse,0,1,2,2,5,480,7,7,3
+SE,60,2,1,53,Female,14,Videregående uddannelse,1,1,2,2,5,600,5,5,2
+SE,120,3,1,63,Female,11,Videregående uddannelse,1,1,2,2,5,60,3,3,2
+SE,40,2,1,39,Male,11,Videregående uddannelse,1,1,2,2,5,630,2,2,2
+SE,60,2,1,44,Male,13,Gymnasial uddannelse,1,2,1,2,5,120,6,7,3
+SE,30,2,1,45,Male,17,Universitetsuddannelse,1,1,2,2,5,300,3,3,3
+SE,NA,2,1,24,Male,13,Gymnasial uddannelse,0,2,2,2,5,540,7,7,2
+SE,30,2,1,41,Male,16,Videregående uddannelse,1,1,1,2,5,840,4,3,5
+SE,60,2,1,71,Female,14,Videregående uddannelse,0,1,2,1,4,60,6,6,2
+SE,120,2,1,69,Female,15,Videregående uddannelse,0,1,2,2,5,80,5,5,1
+SE,180,1,1,72,Female,15,Videregående uddannelse,1,1,2,2,5,180,8,7,3
+SE,30,1,1,20,Male,12,Gymnasial uddannelse,0,1,1,2,5,300,7,8,4
+SE,60,1,1,73,Female,14,Gymnasial uddannelse,0,1,2,2,5,120,3,3,1
+SE,180,3,1,82,Male,12,Gymnasial uddannelse,0,1,2,1,5,60,5,5,2
+SE,180,1,1,72,Male,9,Grundskole,0,2,1,1,4,60,8,8,4
+SE,90,2,1,78,Male,11,Grundskole,0,2,2,2,5,120,5,6,3
+SE,30,3,1,26,Female,13,Gymnasial uddannelse,0,1,1,2,5,480,3,5,3
+SE,120,2,1,77,Male,11,Gymnasial uddannelse,1,2,2,2,5,90,5,7,2
+SE,180,1,1,88,Female,7,Grundskole,0,1,2,2,1,NA,7,4,2
+SE,60,2,1,38,Male,15,Grundskole,1,1,1,1,5,360,2,0,3
+SE,30,2,1,21,Male,12,Gymnasial uddannelse,1,1,1,2,5,360,3,5,3
+SE,90,2,1,57,Male,17,Universitetsuddannelse,1,1,2,2,5,60,5,5,4
+SE,45,3,1,47,Female,16,Universitetsuddannelse,1,2,2,2,5,240,6,4,3
+SE,30,2,1,41,Male,15,Gymnasial uddannelse,1,2,2,2,5,300,2,3,3
+SE,120,1,1,77,Male,17,Universitetsuddannelse,0,1,1,2,5,240,5,7,4
+SE,60,2,1,51,Male,11,Gymnasial uddannelse,1,1,2,2,5,240,4,7,2
+SE,150,1,1,41,Male,15,Universitetsuddannelse,1,1,1,2,5,390,8,8,5
+SE,150,3,1,28,Female,15,Gymnasial uddannelse,1,1,2,2,5,720,7,5,4
+SE,120,3,1,75,Female,12,Videregående uddannelse,0,1,1,2,5,60,3,4,1
+SE,60,2,1,34,Male,12,Gymnasial uddannelse,1,1,2,2,5,NA,5,5,3
+SE,120,1,1,56,Female,17,Universitetsuddannelse,0,3,1,2,5,300,5,6,3
+SE,10,3,1,32,Female,20,Videregående uddannelse,0,3,2,2,5,840,2,2,2
+SE,120,1,1,85,Male,11,Universitetsuddannelse,0,1,2,2,4,90,7,7,3
+SE,240,4,1,34,Male,7,Grundskole,1,1,2,1,4,240,5,5,2
+SE,80,2,1,59,Female,12,Gymnasial uddannelse,1,1,1,2,5,420,4,4,3
+SE,100,2,1,82,Female,8,Videregående uddannelse,0,2,2,2,4,20,4,4,1
+SE,180,3,1,35,Female,16,Universitetsuddannelse,1,1,1,2,5,210,5,5,2
+SE,240,2,1,70,Male,12,Gymnasial uddannelse,0,1,2,2,1,NA,1,2,3
+SE,12,3,1,36,Female,16,Universitetsuddannelse,1,1,2,2,5,180,6,5,2
+SE,5,2,1,30,Female,17,Universitetsuddannelse,1,1,2,2,5,540,6,4,5
+SE,30,2,1,55,Male,16,Universitetsuddannelse,1,1,2,2,5,180,6,6,3
+SE,60,3,1,57,Female,12,Gymnasial uddannelse,1,2,2,1,5,180,3,4,2
+SE,NA,3,1,82,Male,11,Grundskole,0,1,2,2,1,NA,3,3,1
+SE,120,2,2,75,Male,11,Gymnasial uddannelse,0,2,2,2,1,NA,4,3,1
+SE,120,1,1,50,Male,15,Videregående uddannelse,1,1,1,1,4,240,3,1,3
+SE,60,2,1,56,Female,16,Universitetsuddannelse,1,2,2,2,5,600,5,4,4
+SE,60,1,1,34,Male,12,Gymnasial uddannelse,1,2,2,2,5,120,1,1,2
+SE,180,1,1,78,Female,15,Videregående uddannelse,0,1,2,2,5,105,7,7,5
+SE,15,1,2,60,Female,16,Universitetsuddannelse,0,3,2,2,5,180,5,6,1
+SE,60,3,1,61,Female,16,Universitetsuddannelse,1,2,2,2,5,300,4,4,3
+SE,120,1,1,85,Male,13,Gymnasial uddannelse,0,1,2,2,5,210,4,4,2
+SE,60,2,1,62,Male,16,Videregående uddannelse,1,2,2,2,5,180,3,4,3
+SE,150,2,1,73,Female,12,Gymnasial uddannelse,0,1,1,1,5,300,NA,1,5
+SE,60,2,1,53,Female,20,Universitetsuddannelse,1,1,2,2,5,420,4,4,4
+SE,45,1,1,47,Male,NA,Universitetsuddannelse,1,1,1,1,5,300,4,5,4
+SE,70,2,1,67,Male,13,Gymnasial uddannelse,1,1,2,2,4,120,5,5,2
+SE,60,1,1,48,Male,19,Universitetsuddannelse,1,1,1,2,5,720,7,6,4
+SE,60,1,1,61,Male,15,Videregående uddannelse,1,1,2,2,5,720,4,5,3
+SE,60,3,1,87,Male,7,Grundskole,0,2,2,2,1,NA,5,3,1
+SE,60,1,1,84,Male,8,Grundskole,0,2,2,2,1,NA,1,2,4
+SE,NA,1,1,30,Female,18,Universitetsuddannelse,0,1,1,1,5,720,3,5,5
+SE,120,1,NA,53,Female,15,Universitetsuddannelse,1,1,1,1,5,300,7,7,5
+SE,180,2,1,89,Female,17,Videregående uddannelse,0,1,2,2,5,30,5,5,2
+SE,105,2,1,68,Male,17,Universitetsuddannelse,0,1,2,1,5,120,2,2,4
+SE,120,2,1,59,Male,18,Universitetsuddannelse,1,1,2,1,5,480,6,7,5
+SE,45,2,1,81,Male,14,Universitetsuddannelse,0,2,2,2,5,240,8,8,3
+SE,90,1,1,73,Female,19,Universitetsuddannelse,0,1,2,2,5,120,5,5,2
+SE,60,1,1,70,Male,14,Gymnasial uddannelse,0,1,2,2,5,60,6,5,4
+SE,90,1,1,85,Male,14,Videregående uddannelse,0,1,2,2,5,120,3,3,3
+SE,120,1,1,62,Male,15,Videregående uddannelse,1,1,1,1,5,480,9,9,4
+SE,120,2,1,78,Female,12,Videregående uddannelse,0,2,2,2,5,120,4,5,3
+SE,30,2,1,52,Female,15,Videregående uddannelse,1,2,1,2,5,90,4,4,3
+SE,30,3,1,35,Female,12,Gymnasial uddannelse,1,1,1,1,5,150,5,5,3
+SE,30,2,1,22,Female,15,Gymnasial uddannelse,1,1,1,2,5,300,5,5,3
+SE,165,1,1,55,Male,23,Universitetsuddannelse,1,1,1,1,5,420,6,5,3
+SE,60,3,1,65,Female,12,Gymnasial uddannelse,1,2,2,2,5,240,1,2,2
+SE,NA,1,1,67,Male,9,Grundskole,0,1,2,2,5,300,5,5,3
+SE,45,1,1,55,Female,24,Universitetsuddannelse,1,1,2,2,5,600,7,7,4
+SE,90,1,1,29,Male,12,Gymnasial uddannelse,0,1,1,2,5,380,2,5,5
+SE,60,1,1,51,Male,24,Universitetsuddannelse,1,1,2,2,5,360,7,7,5
+SE,60,1,1,61,Male,15,Gymnasial uddannelse,0,3,2,1,5,180,5,7,4
+SE,20,3,1,61,Female,16,Universitetsuddannelse,1,1,2,2,5,300,7,7,3
+SE,0,4,1,32,Male,18,Videregående uddannelse,1,2,2,1,5,NA,2,3,2
+SE,210,1,1,77,Female,18,Videregående uddannelse,0,1,1,2,5,60,6,7,2
+SE,30,2,1,53,Female,12,Gymnasial uddannelse,1,1,2,2,5,300,4,5,3
+SE,60,2,1,54,Male,12,Gymnasial uddannelse,1,1,2,2,5,180,3,3,2
+SE,60,1,1,54,Male,14,Videregående uddannelse,1,2,2,2,5,120,2,1,5
+SE,10,3,1,39,Female,18,Universitetsuddannelse,0,2,2,2,5,600,7,7,NA
+SE,30,3,1,66,Female,11,Gymnasial uddannelse,0,1,2,2,5,30,6,6,2
+SE,60,1,1,49,Male,12,Gymnasial uddannelse,1,1,1,1,5,300,7,8,3
+SE,30,2,1,66,Male,12,Videregående uddannelse,1,1,2,2,5,150,5,7,3
+SE,30,2,1,45,Female,13,Gymnasial uddannelse,1,1,2,1,5,120,5,5,3
+SE,60,1,1,37,Female,16,Universitetsuddannelse,1,1,1,1,5,720,6,7,4
+SE,120,2,1,69,Female,11,Gymnasial uddannelse,0,2,2,2,4,60,4,6,1
+SE,30,1,1,58,Male,11,Gymnasial uddannelse,1,1,1,1,5,180,5,6,4
+SE,30,2,1,60,Male,12,Gymnasial uddannelse,0,3,2,1,5,300,0,5,4
+SE,45,2,1,37,Male,16,Universitetsuddannelse,1,1,1,2,5,540,6,7,2
+SE,10,3,1,28,Male,NA,Universitetsuddannelse,0,2,2,2,5,180,7,6,2
+SE,30,2,1,41,Female,19,Gymnasial uddannelse,1,2,2,2,5,60,6,6,2
+SE,120,2,1,81,Female,9,Gymnasial uddannelse,0,1,2,1,5,60,3,3,2
+SE,60,2,1,81,Female,15,Videregående uddannelse,0,2,2,2,4,60,6,5,1
+SE,75,2,1,58,Female,15,Universitetsuddannelse,1,1,2,2,5,180,5,5,1
+SE,60,3,1,76,Female,15,Gymnasial uddannelse,0,1,2,2,5,60,6,5,2
+SE,120,1,1,63,Male,18,Universitetsuddannelse,1,1,1,1,5,240,7,7,3
+SE,60,1,1,49,Male,16,Videregående uddannelse,1,1,1,1,5,300,8,7,4
+SE,15,3,1,53,Male,13,Videregående uddannelse,1,2,1,2,4,60,7,7,1
+SE,120,1,1,76,Male,18,Videregående uddannelse,0,2,2,2,5,90,3,2,2
+SE,20,3,1,24,Male,12,Gymnasial uddannelse,1,1,1,2,5,480,6,6,4
+SE,20,2,1,28,Male,15,Gymnasial uddannelse,1,1,2,1,5,480,1,2,3
+SE,120,2,1,77,Female,14,Gymnasial uddannelse,0,2,2,2,5,120,7,4,1
+SE,150,2,1,81,Female,NA,Universitetsuddannelse,0,1,2,1,2,NA,6,5,3
+SE,60,1,1,77,Male,9,Grundskole,0,1,2,1,5,25,6,6,3
+SE,15,2,1,20,Male,11,Grundskole,0,1,2,1,5,180,4,5,3
+SE,30,3,1,32,Female,12,Gymnasial uddannelse,1,1,2,2,5,420,NA,NA,2
+SE,120,2,1,80,Male,13,Videregående uddannelse,0,3,2,NA,5,30,3,3,2
+SE,NA,2,1,85,Male,7,Grundskole,1,1,2,2,2,NA,2,2,3
+SE,20,2,1,40,Male,16,Videregående uddannelse,1,1,2,2,5,180,3,3,3
+SE,20,3,1,34,Female,16,Universitetsuddannelse,1,1,2,2,5,300,5,4,3
+SE,75,1,1,76,Female,15,Universitetsuddannelse,1,1,2,2,5,NA,5,5,4
+SE,15,2,1,53,Female,15,Universitetsuddannelse,1,1,2,2,5,300,6,5,4
+SE,30,2,1,40,Female,18,Universitetsuddannelse,1,1,2,2,5,480,5,6,3
+SE,60,1,1,21,Male,13,Gymnasial uddannelse,0,2,2,2,5,540,9,9,5
+SE,75,3,1,65,Female,12,Gymnasial uddannelse,0,1,2,2,5,90,5,5,2
+SE,60,3,1,23,Male,13,Gymnasial uddannelse,1,1,1,2,5,600,2,3,3
+SE,30,2,1,43,Female,17,Universitetsuddannelse,1,2,1,1,5,240,4,6,3
+SE,60,1,1,59,Female,17,Universitetsuddannelse,1,2,1,2,5,540,2,3,3
+SE,60,2,1,70,Female,10,Grundskole,0,1,2,2,5,150,3,4,2
+SE,45,1,1,58,Male,11,Gymnasial uddannelse,1,1,2,2,5,240,5,5,3
+SE,60,3,1,91,Female,10,Videregående uddannelse,0,2,2,1,1,NA,5,5,4
+SE,60,3,1,44,Male,14,Videregående uddannelse,1,1,2,2,5,660,5,4,2
+SE,120,1,1,75,Male,16,Universitetsuddannelse,0,1,1,1,5,180,7,8,5
+SE,120,2,2,87,Male,8,Grundskole,0,2,2,2,5,120,3,3,2
+SE,30,2,1,54,Female,14,NA,1,1,2,2,5,360,3,6,3
+SE,120,1,1,49,Male,13,Videregående uddannelse,1,1,2,2,5,240,7,7,2
+SE,60,1,1,52,Female,18,Universitetsuddannelse,1,2,1,1,5,180,1,1,4
+SE,60,3,1,46,Female,20,Universitetsuddannelse,1,2,2,1,5,180,6,5,3
+SE,30,2,1,38,Female,20,Universitetsuddannelse,1,2,2,2,5,360,5,5,3
+SE,60,2,1,29,Female,17,Universitetsuddannelse,1,1,1,1,5,60,7,7,3
+SE,30,2,1,47,Female,17,Universitetsuddannelse,1,3,2,2,5,240,5,4,4
+SE,30,4,1,61,Male,15,Videregående uddannelse,0,2,1,2,5,240,4,3,3
+SE,120,2,1,79,Male,10,Grundskole,0,1,2,2,5,45,6,6,1
+SE,180,3,1,48,Female,16,Universitetsuddannelse,1,1,2,2,5,300,4,4,2
+SE,180,2,1,83,Female,15,Universitetsuddannelse,0,4,2,2,5,300,8,5,2
+SE,180,3,1,76,Male,9,Gymnasial uddannelse,0,1,2,2,5,240,1,1,2
+SE,NA,1,1,78,Male,14,Gymnasial uddannelse,0,1,2,2,5,120,6,6,2
+SE,120,2,1,33,Male,15,Videregående uddannelse,1,1,1,2,5,720,4,4,3
+SE,30,3,1,67,Male,13,NA,1,1,2,2,4,60,3,3,1
+SE,15,2,1,59,Female,17,Universitetsuddannelse,1,1,2,1,5,240,7,7,3
+SE,5,3,1,38,Male,18,Universitetsuddannelse,0,2,2,2,5,360,5,5,3
+SE,60,1,1,25,Male,17,Universitetsuddannelse,0,1,2,2,5,360,7,7,3
+SE,60,1,2,84,Female,10,Grundskole,0,1,2,2,5,540,5,5,5
+SE,60,2,1,70,Male,13,Gymnasial uddannelse,0,3,2,1,2,NA,2,3,2
+SE,30,2,1,35,Female,15,Videregående uddannelse,1,1,2,2,5,480,3,3,2
+SE,60,2,1,78,Female,9,Grundskole,0,1,2,2,5,120,4,8,3
+SE,120,1,1,68,Male,12,Videregående uddannelse,0,2,1,1,5,180,3,5,4
+SE,90,1,2,33,Male,14,Videregående uddannelse,1,1,2,2,5,90,8,8,3
+SE,60,2,1,23,Male,15,Universitetsuddannelse,0,1,2,1,5,210,6,7,4
+SE,30,2,1,87,Male,9,Grundskole,0,1,2,2,1,NA,7,5,1
+SE,90,2,1,73,Female,12,Gymnasial uddannelse,0,1,2,2,5,30,5,5,1
+SE,14,2,1,41,Female,18,Videregående uddannelse,1,1,2,1,5,660,7,8,4
+SE,60,2,1,57,Male,20,Universitetsuddannelse,1,2,1,1,5,60,5,6,4
+SE,120,2,1,80,Female,19,Universitetsuddannelse,0,1,1,2,5,180,5,4,3
+SE,60,3,1,86,Female,11,Universitetsuddannelse,0,1,2,2,5,120,5,5,2
+SE,180,1,1,58,Male,16,Universitetsuddannelse,1,1,1,2,5,360,2,2,4
+SE,30,2,1,38,Female,17,Universitetsuddannelse,1,1,1,1,5,300,5,5,3
+SE,90,2,1,51,Male,12,Gymnasial uddannelse,1,1,2,1,5,480,5,7,3
+SE,60,2,1,36,Male,17,Universitetsuddannelse,1,1,2,2,5,420,3,4,2
+SE,60,3,1,61,Female,13,Videregående uddannelse,1,2,2,1,4,90,6,5,1
+SE,5,4,1,35,Female,15,Universitetsuddannelse,0,2,1,2,5,360,4,6,4
+SE,15,2,1,56,Male,11,Gymnasial uddannelse,1,1,1,2,5,120,4,4,3
+SE,30,2,1,68,Female,16,Universitetsuddannelse,0,1,2,2,5,40,6,8,3
+SE,120,2,1,55,Female,14,NA,0,1,1,2,5,240,4,5,3
+SE,60,2,1,80,Male,8,NA,0,2,2,2,2,NA,5,5,1
+SE,60,1,1,58,Male,15,Gymnasial uddannelse,1,1,2,1,5,600,3,5,4
+SE,180,1,1,51,Male,17,Universitetsuddannelse,1,1,1,1,5,480,9,8,5
+SE,120,2,1,80,Male,9,Grundskole,0,1,2,2,2,NA,4,4,3
+SE,60,3,1,48,Female,15,Gymnasial uddannelse,1,1,2,2,5,240,4,4,2
+SE,90,2,1,73,Male,8,Grundskole,0,1,2,2,5,10,5,8,2
+SE,5,2,1,23,Female,12,Gymnasial uddannelse,0,1,2,2,5,180,6,6,3
+SE,30,1,1,69,Male,11,Gymnasial uddannelse,0,1,2,2,5,60,6,6,2
+SE,90,2,1,71,Female,8,Videregående uddannelse,0,1,2,2,5,150,6,6,1
+SE,90,2,1,56,Female,16,Universitetsuddannelse,1,1,2,2,5,180,7,8,3
+SE,45,2,1,55,Female,20,Universitetsuddannelse,1,1,2,1,5,240,6,6,1
+SE,30,4,2,61,Female,11,Gymnasial uddannelse,1,2,2,2,5,240,8,8,1
+SE,240,2,1,90,Female,10,Gymnasial uddannelse,0,1,2,2,1,NA,8,8,3
+SE,NA,2,1,91,Female,7,Grundskole,0,2,2,1,4,NA,4,4,1
+SE,20,4,2,59,Female,14,Gymnasial uddannelse,1,2,2,2,5,30,0,5,2
+SE,15,3,1,80,Female,12,Grundskole,0,1,2,2,2,NA,6,5,1
+SE,45,2,1,51,Male,12,Videregående uddannelse,1,1,2,2,4,30,5,5,2
+SE,90,2,1,30,Female,16,Universitetsuddannelse,1,2,1,2,5,240,6,7,2
+SE,30,4,1,81,Male,10,Grundskole,0,1,2,2,5,60,3,3,1
+SE,150,2,1,67,Male,9,Grundskole,0,1,2,1,5,480,3,3,3
+SE,15,4,1,45,Male,19,Universitetsuddannelse,1,1,2,2,5,180,6,7,1
+SE,120,2,2,80,Female,8,Grundskole,0,2,2,2,1,NA,5,5,NA
+SE,30,2,1,75,Female,9,Grundskole,1,1,2,2,5,15,7,7,2
+SE,15,2,1,38,Female,16,Universitetsuddannelse,1,1,1,2,5,120,6,7,2
+SE,60,4,1,59,Female,14,Videregående uddannelse,1,1,1,2,5,240,6,5,4
+SE,30,3,1,54,Male,12,Videregående uddannelse,1,1,2,1,5,90,5,5,2
+SE,120,2,1,88,Male,10,Gymnasial uddannelse,0,1,2,2,1,NA,3,4,3
+SE,30,4,1,81,Male,7,Grundskole,0,2,2,2,1,NA,3,3,2
+SE,90,2,1,37,Female,18,Universitetsuddannelse,1,1,2,2,5,300,8,8,5
+SE,180,2,1,74,Male,19,Universitetsuddannelse,0,1,2,2,5,120,4,4,3
+SE,5,2,1,28,Male,13,Gymnasial uddannelse,1,2,2,2,5,840,7,6,4
+SE,90,1,1,60,Male,16,Universitetsuddannelse,1,1,2,2,5,120,7,NA,3
+SE,60,2,1,66,Male,15,Videregående uddannelse,1,1,1,2,5,720,5,3,4
+SE,90,3,1,32,Female,14,Videregående uddannelse,1,1,2,2,5,120,6,5,2
+SE,60,2,2,45,Male,18,Universitetsuddannelse,1,1,2,2,4,300,2,2,2
+SE,20,2,1,23,Female,14,Videregående uddannelse,0,1,1,2,5,480,1,1,2
+SE,10,2,1,41,Female,18,Universitetsuddannelse,1,1,1,1,5,600,5,6,3
+SE,120,3,2,83,Female,9,Gymnasial uddannelse,0,1,2,2,3,NA,2,2,1
+SE,90,3,1,77,Female,10,Gymnasial uddannelse,0,2,2,2,2,NA,6,6,1
+SE,2,3,1,52,Female,14,Videregående uddannelse,1,2,2,2,5,120,6,7,1
+SE,60,3,1,35,Male,14,Videregående uddannelse,1,2,2,2,5,600,4,4,3
+SE,20,2,1,46,Female,16,Universitetsuddannelse,1,1,2,2,5,240,7,7,3
+SE,60,1,1,57,Female,17,Universitetsuddannelse,1,1,2,1,5,150,4,7,4
+SE,5,4,1,36,Female,17,Universitetsuddannelse,1,1,NA,2,5,390,7,6,2
+SE,30,3,1,90,Female,13,Videregående uddannelse,0,1,2,2,1,NA,3,3,2
+SE,90,3,1,53,Male,13,Gymnasial uddannelse,1,1,2,2,5,300,2,4,2
+SE,30,1,1,57,Male,15,Gymnasial uddannelse,1,1,1,1,5,105,1,2,NA
+SE,60,NA,1,61,Male,12,Gymnasial uddannelse,1,2,2,2,5,180,5,6,3
+SE,60,2,1,74,Female,15,Universitetsuddannelse,0,1,2,2,5,90,5,5,2
+SE,60,2,1,50,Female,15,Universitetsuddannelse,1,1,2,2,5,180,4,5,2
+SE,45,3,1,34,Male,18,Universitetsuddannelse,1,1,2,1,5,480,0,1,3
+SE,60,2,1,46,Female,18,Videregående uddannelse,1,2,1,1,5,540,5,5,5
+SE,60,3,1,73,Female,10,Gymnasial uddannelse,0,1,2,2,5,60,1,1,2
+SE,180,2,1,72,Female,15,Universitetsuddannelse,0,1,2,2,4,270,7,7,3
+SE,120,1,1,74,Female,17,Universitetsuddannelse,0,1,1,1,5,120,4,5,4
+SE,60,2,1,62,Male,11,Gymnasial uddannelse,1,2,2,1,2,NA,2,0,2
+SE,60,2,1,73,Female,15,Videregående uddannelse,1,1,1,2,5,90,3,3,2
+SE,60,2,1,65,Female,10,Videregående uddannelse,0,2,2,2,5,120,4,4,2
+SE,120,3,1,91,Male,7,Grundskole,0,NA,2,2,3,NA,7,7,NA
+SE,180,1,1,80,Male,17,Universitetsuddannelse,0,2,2,2,5,300,3,2,3
+SE,60,1,1,52,Male,16,Universitetsuddannelse,1,1,2,1,5,60,4,4,2
+SE,240,1,1,80,Male,14,Gymnasial uddannelse,0,1,2,2,5,120,8,8,3
+SE,120,1,1,76,Male,19,Universitetsuddannelse,1,1,2,2,5,180,6,6,3
+SE,0,3,1,61,Female,12,Gymnasial uddannelse,0,1,2,2,5,300,1,3,1
+SE,30,2,1,43,Female,16,Universitetsuddannelse,0,1,2,2,5,60,3,3,2
+SE,180,1,1,80,Female,NA,Universitetsuddannelse,0,2,1,1,5,120,4,4,4
+SE,120,2,1,66,Female,15,Universitetsuddannelse,1,2,2,2,5,30,6,6,1
+SE,150,1,1,68,Male,12,Gymnasial uddannelse,0,2,1,2,5,150,3,4,3
+SE,150,1,1,36,Female,18,Universitetsuddannelse,1,1,2,2,5,780,6,5,3
+SE,180,2,1,58,Male,16,Universitetsuddannelse,1,3,1,1,5,240,6,5,3
+SE,75,2,1,52,Female,17,Universitetsuddannelse,1,1,2,2,5,570,5,4,2
+SE,180,1,1,76,Male,14,Videregående uddannelse,0,2,2,1,5,600,1,1,3
+SE,60,2,1,57,Male,13,Videregående uddannelse,1,1,1,1,5,180,3,1,3
+SE,20,2,1,74,Female,11,Gymnasial uddannelse,1,2,2,2,5,120,4,4,1
+SE,90,1,1,55,Female,20,Universitetsuddannelse,1,1,2,1,5,150,6,5,4
+SE,0,4,2,59,Male,10,Gymnasial uddannelse,1,1,2,2,5,60,0,0,1
+SE,30,1,1,32,Female,16,Universitetsuddannelse,1,1,1,2,5,480,6,4,4
+SE,20,2,1,65,Male,15,Universitetsuddannelse,1,1,2,2,5,240,6,6,3
+SE,60,2,1,58,Male,13,Videregående uddannelse,1,1,2,2,5,180,5,4,3
+SE,30,1,1,33,Female,12,Gymnasial uddannelse,1,1,1,2,5,420,5,6,3
+SE,120,2,2,56,Male,13,Videregående uddannelse,0,1,2,2,5,240,4,4,3
+SE,NA,1,1,81,Male,15,NA,0,1,2,2,5,65,8,7,3
+SE,45,2,1,37,Female,12,Gymnasial uddannelse,1,1,1,2,5,NA,5,5,3
+SE,180,1,1,42,Male,15,Gymnasial uddannelse,1,1,2,1,5,180,3,3,4
+SE,10,3,2,18,Male,NA,Grundskole,0,1,2,2,5,270,4,6,2
+SE,60,2,1,68,Male,13,Videregående uddannelse,0,1,2,2,5,240,4,5,3
+SE,30,2,1,72,Male,11,Grundskole,0,2,2,2,5,120,8,8,1
+SE,60,1,1,44,Female,19,Universitetsuddannelse,1,2,1,2,5,600,4,4,3
+SE,10,3,1,32,Female,17,Universitetsuddannelse,0,1,2,2,5,120,3,3,1
+SE,60,1,1,34,Male,13,Gymnasial uddannelse,1,1,2,1,5,180,5,7,4
+SE,15,2,1,59,Female,11,Gymnasial uddannelse,1,1,2,2,5,240,3,5,4
+SE,60,3,1,48,Female,17,Universitetsuddannelse,1,3,2,1,5,240,6,7,4
+SE,120,2,1,54,Male,13,Gymnasial uddannelse,1,1,2,2,5,120,5,5,3
+SE,45,2,1,50,Female,12,Gymnasial uddannelse,1,1,2,2,5,150,5,4,2
+SE,120,1,1,53,Male,11,Gymnasial uddannelse,1,1,1,2,5,240,7,6,4
+SE,60,3,1,39,Female,14,Videregående uddannelse,1,1,2,2,5,180,0,1,3
+SE,60,1,1,44,Male,18,Universitetsuddannelse,1,1,1,2,5,660,6,6,3
+SE,180,2,1,85,Female,10,Gymnasial uddannelse,0,1,2,2,5,30,4,5,2
+SE,30,2,1,21,Female,14,Gymnasial uddannelse,0,1,2,2,5,420,7,7,3
+SE,90,2,1,58,Male,11,Gymnasial uddannelse,1,1,2,2,5,60,4,5,3
+SE,60,1,1,65,Female,16,Universitetsuddannelse,1,1,2,1,5,480,6,7,2
+SE,120,1,1,32,Male,18,Universitetsuddannelse,1,1,2,2,5,480,3,3,3
+SE,15,2,1,45,Female,20,Universitetsuddannelse,1,1,1,1,5,300,7,7,4
+SE,30,2,1,33,Male,13,Gymnasial uddannelse,0,1,2,2,5,600,3,4,4
+SE,NA,3,1,71,Female,12,Videregående uddannelse,0,1,2,2,5,60,6,6,1
+SE,180,2,1,88,Male,13,Gymnasial uddannelse,0,1,2,2,2,NA,7,6,1
+SE,30,3,1,61,Male,19,Videregående uddannelse,0,2,2,2,3,NA,8,8,1
+SE,45,2,1,46,Female,18,Universitetsuddannelse,1,1,2,1,5,540,6,7,2
+SE,180,2,1,57,Male,17,Universitetsuddannelse,1,1,2,2,5,240,6,6,3
+SE,NA,2,2,19,Female,12,Grundskole,0,1,1,2,4,720,4,7,5
+SE,120,1,1,57,Male,12,Gymnasial uddannelse,1,1,2,2,5,240,8,6,3
+SE,15,3,2,84,Male,15,Gymnasial uddannelse,0,1,2,2,5,240,3,3,4
+SE,60,4,2,55,Male,11,Gymnasial uddannelse,0,1,2,2,5,120,4,4,3
+SE,180,1,1,73,Male,13,Universitetsuddannelse,0,1,2,2,5,180,5,4,3
+SE,60,1,1,66,Female,14,Gymnasial uddannelse,1,1,1,1,5,240,5,4,3
+SE,60,2,1,35,Male,10,Grundskole,1,2,2,2,5,300,6,6,3
+SE,60,2,1,75,Male,11,Grundskole,0,1,1,1,5,240,4,3,2
+SE,120,2,1,64,Female,17,Videregående uddannelse,0,1,2,1,5,60,3,3,3
+SE,120,2,1,72,Male,13,Gymnasial uddannelse,0,2,2,2,5,150,6,6,2
+SE,60,3,1,41,Female,18,Universitetsuddannelse,1,2,2,2,5,720,5,5,4
+SE,15,3,1,38,Male,16,Universitetsuddannelse,1,2,1,2,5,180,6,6,3
+SE,20,2,1,24,Male,14,Gymnasial uddannelse,0,1,1,1,5,270,0,2,4
+SE,30,2,1,65,Female,11,Gymnasial uddannelse,0,1,2,1,4,30,5,5,1
+SE,NA,1,1,62,Female,16,Universitetsuddannelse,1,1,1,1,5,540,7,7,5
+SE,NA,2,1,60,Female,13,NA,1,2,2,2,5,60,2,4,1
+SE,90,2,1,60,Male,5,Grundskole,1,3,2,1,3,NA,6,5,2
+SE,60,3,1,81,Male,9,Grundskole,0,1,2,2,5,300,0,0,1
+SE,60,2,1,62,Male,16,Universitetsuddannelse,1,1,2,2,5,240,7,7,3
+SE,60,2,1,80,Female,14,Gymnasial uddannelse,0,1,2,1,5,30,7,7,2
+SE,90,2,1,44,Male,16,Universitetsuddannelse,1,1,2,2,5,240,7,7,3
+SE,120,1,1,71,Female,14,Videregående uddannelse,0,1,2,2,5,80,5,6,4
+SE,150,1,1,80,Male,20,Universitetsuddannelse,0,1,2,2,5,30,5,6,5
+SE,60,3,1,50,Female,19,Universitetsuddannelse,1,2,2,2,5,120,8,7,3
+SE,60,2,1,71,Female,18,Universitetsuddannelse,1,1,2,1,5,120,7,7,4
+SE,60,2,1,25,Female,13,Gymnasial uddannelse,0,1,2,2,5,300,7,7,3
+SE,60,2,1,46,Female,18,Universitetsuddannelse,1,1,2,2,5,840,6,5,3
+SE,63,2,1,46,Female,17,Universitetsuddannelse,1,2,1,2,5,605,3,3,3
+SE,60,2,1,39,Male,15,Universitetsuddannelse,1,2,2,2,5,240,5,3,3
+SE,15,2,1,84,Male,11,Gymnasial uddannelse,0,1,2,2,5,30,3,3,1
+SE,30,2,1,34,Female,16,Universitetsuddannelse,1,1,2,1,5,540,5,5,4
+SE,60,2,1,85,Female,12,Videregående uddannelse,0,1,2,2,5,60,2,2,1
+SE,120,3,1,87,Female,14,Gymnasial uddannelse,0,1,2,2,5,90,5,5,3
+SE,NA,1,1,56,Female,14,Gymnasial uddannelse,0,1,2,2,5,600,8,8,4
+SE,60,2,1,56,Female,12,Videregående uddannelse,1,1,2,2,5,120,6,7,2
+SE,25,2,1,57,Female,12,Gymnasial uddannelse,1,1,2,1,5,120,7,7,4
+SE,60,3,1,50,Female,15,Universitetsuddannelse,1,1,1,2,5,420,2,2,4
+SE,60,1,1,59,Male,18,Universitetsuddannelse,0,2,2,2,5,30,2,2,3
+SE,15,3,1,55,Male,12,Gymnasial uddannelse,1,2,NA,2,1,NA,1,1,3
+SE,45,3,1,34,Female,18,Universitetsuddannelse,1,1,2,2,5,300,4,4,2
+SE,240,2,1,69,Male,12,Gymnasial uddannelse,0,2,2,2,4,360,4,4,3
+SE,60,4,1,36,Female,16,Universitetsuddannelse,1,1,2,2,5,180,7,5,2
+SE,15,2,1,85,Male,7,Grundskole,0,2,2,2,5,30,5,4,1
+SE,60,1,1,75,Male,7,Grundskole,0,1,1,1,5,120,8,8,4
+SE,120,3,1,62,Female,19,Universitetsuddannelse,1,2,1,2,5,540,2,4,1
+SE,60,2,1,61,Female,14,Universitetsuddannelse,1,2,1,2,5,180,3,6,2
+SE,60,3,1,37,Female,13,Videregående uddannelse,0,1,1,2,5,480,1,1,1
+SE,60,1,1,30,Female,17,Universitetsuddannelse,1,1,1,2,5,480,7,7,3
+SE,120,2,1,49,Male,NA,Universitetsuddannelse,1,2,1,2,5,240,4,6,3
+SE,90,2,1,64,Male,19,Universitetsuddannelse,1,1,1,1,5,150,3,3,5
+SE,120,1,1,70,Male,14,Videregående uddannelse,1,1,2,2,5,120,6,6,3
+SE,60,2,1,47,Male,9,Grundskole,0,4,2,2,5,180,0,4,2
+SE,10,2,1,20,Female,10,Gymnasial uddannelse,1,1,1,2,5,240,3,3,3
+SE,5,2,2,17,Female,9,Grundskole,0,1,1,2,5,120,7,7,3
+SE,120,2,1,79,Female,15,NA,0,1,2,2,5,30,4,4,2
+SE,60,2,1,21,Male,11,Gymnasial uddannelse,1,1,2,2,5,660,5,4,2
+SE,30,1,1,46,Female,22,Universitetsuddannelse,1,1,1,1,5,120,8,7,5
+SE,30,3,1,53,Male,14,Videregående uddannelse,1,1,2,2,5,240,4,4,1
+SE,60,3,1,91,Female,7,Grundskole,0,1,2,2,1,NA,0,7,NA
+SE,60,2,1,61,Male,11,Gymnasial uddannelse,1,1,1,2,5,240,6,6,3
+SE,15,3,1,38,Male,17,Universitetsuddannelse,1,1,2,2,5,480,4,4,2
+SE,15,3,1,26,Female,15,Universitetsuddannelse,1,2,1,2,5,480,6,6,2
+SE,60,1,1,57,Male,13,Gymnasial uddannelse,1,2,2,2,5,180,1,1,3
+SE,30,2,1,27,Female,16,Universitetsuddannelse,1,1,2,2,5,600,8,8,3
+SE,30,1,2,29,Male,18,Universitetsuddannelse,0,2,1,2,5,240,6,4,4
+SE,60,1,1,83,Male,10,Grundskole,0,1,2,2,4,180,3,3,2
+SE,129,1,1,49,Female,16,Videregående uddannelse,1,1,2,2,5,480,0,0,3
+SE,105,1,1,76,Male,17,Universitetsuddannelse,0,1,2,2,5,135,5,6,3
+SE,30,3,1,61,Male,11,Gymnasial uddannelse,1,1,2,2,5,240,5,5,2
+SE,15,2,1,39,Male,16,Universitetsuddannelse,1,1,2,2,5,120,4,4,3
+SE,120,1,1,75,Female,14,Universitetsuddannelse,0,1,2,2,5,290,6,NA,4
+SE,30,2,1,53,Male,13,Gymnasial uddannelse,1,1,2,2,5,240,4,6,2
+SE,240,2,1,75,Male,14,Gymnasial uddannelse,0,2,2,2,5,180,4,6,2
+SE,90,1,1,56,Male,17,Universitetsuddannelse,1,2,2,2,5,480,4,4,4
+SE,90,1,1,54,Female,10,Gymnasial uddannelse,0,1,1,2,5,420,4,4,2
+SE,150,1,1,74,Male,11,Gymnasial uddannelse,0,1,2,2,5,120,7,7,4
+SE,45,2,1,34,Male,15,Universitetsuddannelse,1,1,2,2,5,420,3,4,3
+SE,90,3,1,34,Female,13,Gymnasial uddannelse,1,1,2,2,5,420,5,5,3
+SE,120,1,1,30,Male,18,Universitetsuddannelse,1,1,2,2,5,600,4,4,4
+SE,20,2,1,33,Male,18,Universitetsuddannelse,1,1,2,2,5,300,4,4,3
+SE,45,1,1,55,Male,17,Universitetsuddannelse,1,1,2,1,5,360,6,7,3
+SE,20,2,1,53,Female,18,Universitetsuddannelse,1,1,1,2,5,600,6,6,3
+SE,NA,2,1,53,Male,11,Gymnasial uddannelse,0,1,2,2,5,30,5,6,1
+SE,60,2,1,66,Male,14,Videregående uddannelse,0,1,1,2,5,90,7,5,3
+SE,90,1,1,36,Male,15,Universitetsuddannelse,1,1,2,2,5,300,5,5,3
+SE,60,2,1,69,Female,11,Videregående uddannelse,0,2,2,2,5,300,6,6,2
+SE,20,2,1,58,Male,15,Universitetsuddannelse,1,1,2,1,5,90,6,7,4
+SE,30,3,1,39,Male,17,Universitetsuddannelse,1,3,2,2,5,360,6,7,3
+SE,0,4,1,48,Female,12,Gymnasial uddannelse,1,2,2,2,5,180,9,10,1
+SE,30,4,1,50,Female,16,Universitetsuddannelse,1,1,2,2,5,480,7,6,1
+SE,NA,2,1,25,Female,16,Universitetsuddannelse,0,1,2,2,5,360,6,5,3
+SE,30,2,1,72,Male,15,Videregående uddannelse,0,2,2,2,5,30,5,5,2
+SE,60,3,1,68,Female,11,Gymnasial uddannelse,1,2,2,2,5,120,3,4,1
+SE,15,3,1,20,Male,12,Gymnasial uddannelse,0,1,2,1,5,420,7,7,4
+SE,90,3,2,77,Male,14,Gymnasial uddannelse,0,2,2,2,4,60,3,3,2
+SE,20,3,1,67,Female,15,Universitetsuddannelse,0,1,2,2,5,180,2,2,2
+SE,60,4,1,60,Female,12,Gymnasial uddannelse,1,1,1,2,5,660,4,4,1
+SE,90,1,1,22,Female,15,Gymnasial uddannelse,1,1,1,2,5,265,6,6,4
+SE,120,2,1,73,Female,15,Gymnasial uddannelse,0,1,2,1,5,180,7,7,3
+SE,210,2,1,71,Female,NA,Gymnasial uddannelse,1,1,2,2,5,210,5,8,2
+SE,10,4,1,56,Female,15,Universitetsuddannelse,1,1,2,2,5,180,5,5,2
+SE,60,3,1,21,Male,12,Gymnasial uddannelse,1,1,2,2,5,600,7,7,3
+SE,30,3,1,82,Male,20,Universitetsuddannelse,0,1,2,2,2,NA,7,7,4
+SE,20,2,1,45,Male,12,Gymnasial uddannelse,1,1,2,2,5,600,6,6,1
+SE,180,2,1,27,Male,12,Gymnasial uddannelse,1,1,2,2,5,360,4,6,2
+SE,120,2,1,56,Female,12,Gymnasial uddannelse,1,1,2,2,5,360,4,5,2
+SE,30,2,1,53,Male,15,Gymnasial uddannelse,1,2,2,2,5,210,7,8,4
+SE,30,3,1,28,Male,16,Videregående uddannelse,1,1,2,2,5,NA,6,6,1
+SE,210,1,1,76,Female,16,Universitetsuddannelse,0,2,1,2,5,NA,6,6,3
+SE,60,2,1,56,Female,17,Universitetsuddannelse,1,1,2,2,5,240,7,7,3
+SE,30,3,1,77,Female,11,NA,0,1,2,2,3,NA,2,3,2
+SE,60,2,1,62,Female,23,Universitetsuddannelse,1,1,2,2,5,240,7,7,5
+SE,240,2,1,82,Male,8,Grundskole,0,2,2,2,5,60,5,5,1
+SE,60,2,1,69,Male,13,Gymnasial uddannelse,0,1,2,1,4,20,7,7,3
+SE,10,4,2,39,Female,10,Gymnasial uddannelse,0,2,2,2,5,60,4,4,2
+SE,90,3,1,29,Female,15,Gymnasial uddannelse,0,3,2,2,5,480,4,4,3
+SE,90,1,1,52,Male,10,Grundskole,1,1,1,2,5,60,4,4,3
+SE,10,2,1,63,Female,18,Universitetsuddannelse,1,1,2,2,5,240,5,5,2
+SE,90,2,1,69,Female,17,Gymnasial uddannelse,0,2,1,2,4,90,3,8,3
+SE,NA,2,1,30,Female,18,Universitetsuddannelse,1,1,2,2,5,840,5,5,4
+SE,60,1,1,52,Female,17,Universitetsuddannelse,1,1,2,2,5,480,6,6,4
+SE,40,2,1,69,Male,9,Grundskole,0,1,2,2,5,45,8,9,3
+SE,45,1,2,59,Male,13,Gymnasial uddannelse,1,3,2,2,5,360,1,1,3
+SE,90,2,1,58,Male,16,Universitetsuddannelse,1,1,2,1,5,240,4,6,4
+SE,60,2,1,31,Female,15,Universitetsuddannelse,1,2,2,2,5,360,6,6,3
+SE,240,1,1,51,Female,21,Universitetsuddannelse,1,3,1,2,5,720,6,6,3
+SE,120,2,1,71,Female,14,Videregående uddannelse,0,1,2,2,2,NA,5,5,2
+SE,60,2,1,53,Male,11,Gymnasial uddannelse,1,1,2,1,5,180,3,5,3
+SE,150,1,1,87,Male,12,Gymnasial uddannelse,0,1,2,2,5,60,6,7,2
+SE,30,3,1,31,Female,16,Universitetsuddannelse,1,1,2,2,5,180,7,6,3
+SE,90,2,1,86,Female,14,Videregående uddannelse,0,1,2,2,1,NA,7,8,2
+SE,62,3,1,42,Female,16,Videregående uddannelse,1,1,2,2,4,662,6,6,2
+SE,45,1,1,29,Female,18,Universitetsuddannelse,0,1,1,2,5,150,5,5,3
+SE,120,1,1,43,Male,12,Gymnasial uddannelse,1,1,2,1,5,420,8,7,5
+SE,60,2,1,69,Male,11,Gymnasial uddannelse,0,1,2,2,5,60,0,3,3
+SE,30,3,1,25,Male,12,Gymnasial uddannelse,1,2,2,2,5,480,2,6,2
+SE,60,2,1,70,Male,12,Grundskole,0,2,2,2,5,90,5,6,2
+SE,5,3,1,25,Male,16,Gymnasial uddannelse,0,1,2,2,5,360,4,5,2
+SE,30,2,1,44,Male,17,Universitetsuddannelse,1,1,2,2,5,240,7,9,3
+SE,15,1,1,40,Female,17,Universitetsuddannelse,1,2,1,2,5,240,7,7,3
+SE,10,3,1,62,Female,17,Videregående uddannelse,1,2,2,2,5,60,5,5,1
+SE,60,1,1,60,Male,16,Universitetsuddannelse,1,1,2,2,5,480,3,5,4
+SE,60,2,1,67,Male,13,Videregående uddannelse,0,2,2,2,5,90,7,5,3
+SE,45,2,1,60,Female,18,Universitetsuddannelse,1,1,2,2,5,120,7,7,2
+SE,60,2,1,43,Female,18,Universitetsuddannelse,1,1,2,2,5,480,8,8,3
+SE,60,1,1,53,Male,18,Universitetsuddannelse,1,1,2,2,5,600,7,7,3
+SE,60,3,1,68,Female,9,Grundskole,1,1,2,1,5,480,2,2,1
+SE,120,2,1,59,Female,22,Universitetsuddannelse,1,1,2,2,5,750,4,5,2
+SE,120,2,1,36,Female,15,Videregående uddannelse,1,1,1,1,5,660,2,2,2
+SE,20,3,1,21,Female,13,Gymnasial uddannelse,0,2,2,2,5,600,2,3,4
+SE,10,2,1,40,Male,14,Videregående uddannelse,1,1,2,2,5,120,6,5,2
+SE,90,2,1,71,Female,17,Universitetsuddannelse,0,1,1,2,5,120,4,6,3
+SE,15,2,1,59,Female,11,Gymnasial uddannelse,1,1,2,2,5,60,6,6,3
+SE,60,2,1,64,Male,9,Grundskole,1,1,2,2,5,180,8,5,3
+SE,30,4,1,51,Male,11,Gymnasial uddannelse,1,1,2,2,5,60,3,4,1
+SE,40,1,1,40,Male,17,Universitetsuddannelse,1,1,2,1,5,840,3,3,3
+SE,10,4,1,39,Female,12,Gymnasial uddannelse,1,2,2,2,5,NA,6,6,2
+SE,5,3,1,49,Male,18,Universitetsuddannelse,1,1,1,2,5,360,3,5,3
+SE,90,2,1,69,Male,13,Gymnasial uddannelse,0,1,2,1,5,90,5,8,4
+SE,120,2,1,70,Male,19,Universitetsuddannelse,1,1,2,2,5,120,8,7,3
+SE,30,3,2,26,Male,11,Videregående uddannelse,1,2,1,2,5,NA,5,4,NA
+SE,180,1,1,37,Male,22,Universitetsuddannelse,1,2,2,2,5,480,7,5,1
+SE,180,4,1,42,Female,15,Gymnasial uddannelse,0,1,2,2,5,90,1,1,1
+SE,120,3,1,75,Male,9,Grundskole,0,3,2,2,3,NA,6,7,2
+SE,15,2,1,20,Female,13,Gymnasial uddannelse,0,1,2,2,5,480,6,5,4
+SE,240,2,1,77,Female,18,Videregående uddannelse,0,1,1,2,5,120,4,6,2
+SE,NA,1,1,89,Female,7,Grundskole,0,1,2,2,1,NA,7,7,2
+SE,10,2,1,31,Female,17,Universitetsuddannelse,1,1,2,2,5,720,5,5,3
+SE,30,3,1,74,Female,11,Gymnasial uddannelse,0,1,2,2,2,NA,5,5,1
+SE,120,3,1,83,Male,14,Gymnasial uddannelse,0,1,2,1,3,NA,2,2,2
+SE,60,1,1,51,Female,14,Gymnasial uddannelse,1,1,2,2,5,240,7,8,5
+SE,5,2,1,51,Male,17,Universitetsuddannelse,1,1,2,2,5,600,3,4,3
+SE,20,2,1,50,Male,13,Gymnasial uddannelse,1,1,2,2,5,720,5,5,3
+SE,60,2,1,30,Female,19,Universitetsuddannelse,1,1,2,2,5,480,4,4,4
+SE,15,4,2,53,Female,16,Universitetsuddannelse,1,1,2,2,4,255,0,0,NA
+SE,45,2,1,56,Male,17,Universitetsuddannelse,1,1,1,1,5,360,9,8,4
+SE,20,3,1,21,Female,12,Gymnasial uddannelse,1,2,1,2,5,360,7,7,2
+SE,120,1,1,64,Male,20,Universitetsuddannelse,1,2,1,1,5,240,7,8,5
+SE,60,2,1,41,Female,18,Universitetsuddannelse,1,1,2,2,5,540,4,2,3
+SE,15,2,1,64,Male,11,Gymnasial uddannelse,1,1,2,2,5,120,6,6,2
+SE,30,3,1,35,Female,19,Universitetsuddannelse,1,1,2,2,5,420,3,2,2
+SE,30,2,1,47,Male,NA,Universitetsuddannelse,1,3,2,2,5,180,6,8,2
+SE,120,2,1,45,Male,19,Universitetsuddannelse,1,2,1,2,5,720,4,4,3
+SE,180,1,1,76,Male,17,Universitetsuddannelse,0,1,1,2,5,65,6,6,4
+SE,30,3,1,62,Female,14,Videregående uddannelse,1,1,2,2,5,540,4,3,1
+SE,45,3,1,46,Male,12,Gymnasial uddannelse,1,2,2,2,5,120,7,7,3
+SE,30,2,1,55,Male,11,NA,1,1,1,1,3,NA,7,6,3
+SE,105,2,1,88,Female,9,Gymnasial uddannelse,0,2,2,2,5,210,0,0,1
+SE,120,2,1,81,Female,15,Gymnasial uddannelse,0,2,2,2,5,150,4,6,3
+SE,30,3,1,31,Female,18,Universitetsuddannelse,1,2,2,2,5,360,4,5,1
+SE,120,2,1,39,Male,12,Gymnasial uddannelse,1,1,2,2,5,120,8,8,3
+SE,60,2,1,38,Male,18,Universitetsuddannelse,1,1,1,2,5,870,0,2,2
+SE,120,2,1,34,Female,12,Gymnasial uddannelse,1,2,2,2,5,120,5,5,4
+SE,30,3,1,69,Male,14,Gymnasial uddannelse,0,2,2,2,5,180,2,5,3
+SE,120,1,2,71,Male,15,Gymnasial uddannelse,0,4,2,2,5,240,0,0,1
+SE,0,4,1,75,Female,9,Grundskole,0,2,2,2,1,NA,1,1,1
+SE,20,2,1,80,Male,14,Universitetsuddannelse,0,1,2,2,5,NA,6,6,4
+SE,120,2,1,87,Male,11,Gymnasial uddannelse,0,1,2,1,5,180,6,6,1
+SE,60,2,1,76,Male,16,Universitetsuddannelse,0,1,1,1,5,120,4,4,4
+SE,60,2,1,78,Female,12,Universitetsuddannelse,0,1,2,2,5,30,4,NA,1
+SE,60,1,1,67,Female,11,Gymnasial uddannelse,0,1,2,1,5,60,0,0,1
+SE,90,2,1,51,Male,21,Universitetsuddannelse,1,1,2,2,5,240,6,8,3
+SE,30,2,1,83,Female,8,Grundskole,0,1,2,2,2,NA,4,5,3
+SE,90,1,1,50,Female,22,Universitetsuddannelse,1,1,2,1,5,120,4,4,5
+SE,180,1,1,36,Male,14,Universitetsuddannelse,1,1,1,1,5,540,9,9,5
+SE,120,2,1,75,Male,13,Gymnasial uddannelse,0,1,2,2,5,63,5,5,3
+SE,120,2,1,68,Male,15,Universitetsuddannelse,1,1,2,2,5,360,8,8,3
+SE,60,1,1,42,Male,16,Universitetsuddannelse,1,2,1,2,5,600,4,4,3
+SE,90,2,1,84,Male,13,Grundskole,0,1,2,2,5,120,6,6,1
+SE,60,2,1,20,Female,12,Gymnasial uddannelse,0,3,1,1,5,300,6,5,2
+SE,NA,2,1,44,Female,21,Universitetsuddannelse,1,1,2,2,5,600,7,7,4
+SE,120,2,1,69,Female,13,Gymnasial uddannelse,0,2,2,2,5,120,3,3,4
+SE,120,3,1,80,Female,11,Grundskole,0,2,2,2,5,120,6,6,1
+SE,60,2,1,54,Female,22,Universitetsuddannelse,1,1,2,2,5,300,5,3,2
+SE,60,3,1,32,Male,16,Universitetsuddannelse,0,1,2,2,5,60,3,3,3
+SE,120,1,1,82,Male,18,Universitetsuddannelse,0,1,2,2,5,180,6,6,5
+SE,90,3,1,57,Male,13,Gymnasial uddannelse,1,1,2,2,5,180,4,6,3
+SE,4,4,1,34,Female,22,Universitetsuddannelse,1,2,2,2,5,600,8,7,2
+SE,60,3,1,69,Male,12,Videregående uddannelse,0,1,2,1,5,30,3,4,2
+SE,60,2,1,62,Female,12,Gymnasial uddannelse,1,1,2,2,5,180,5,5,2
+SE,20,1,1,55,Male,18,Universitetsuddannelse,1,1,2,2,5,240,3,3,4
+SE,90,2,1,71,Female,14,Gymnasial uddannelse,0,1,2,2,5,90,4,5,3
+SE,60,2,1,30,Male,16,Universitetsuddannelse,1,1,2,2,5,300,8,7,3
+SE,40,2,1,49,Male,21,Universitetsuddannelse,1,2,1,2,5,600,4,3,3
+SE,NA,2,1,84,Male,8,Gymnasial uddannelse,0,1,2,2,5,180,6,6,3
+SE,45,1,1,53,Male,23,Universitetsuddannelse,1,1,1,1,5,360,5,6,4
+SE,20,3,1,43,Female,16,Universitetsuddannelse,1,2,2,2,5,240,8,7,3
+SE,60,3,1,47,Female,21,Universitetsuddannelse,1,1,1,1,5,240,5,5,5
+SE,0,3,1,27,Female,13,Videregående uddannelse,1,1,2,2,5,180,2,6,4
+SE,60,2,1,48,Female,14,Gymnasial uddannelse,1,1,2,2,5,120,6,6,3
+SE,10,3,1,30,Female,14,Videregående uddannelse,1,2,1,2,5,120,3,3,2
+SE,60,2,1,55,Female,17,Universitetsuddannelse,1,2,1,1,5,720,4,2,3
+SE,30,2,1,45,Female,21,Universitetsuddannelse,1,2,2,2,5,480,5,5,3
+SE,60,2,1,59,Male,16,Universitetsuddannelse,1,1,1,1,5,180,5,7,5
+SE,120,3,1,58,Male,11,Gymnasial uddannelse,1,1,1,2,5,180,2,3,2
+SE,90,1,1,54,Male,18,Universitetsuddannelse,1,1,2,2,5,180,8,7,5
+SE,45,2,1,75,Female,9,Grundskole,0,1,2,2,5,60,9,9,2
+SE,60,3,1,45,Female,14,Gymnasial uddannelse,1,1,2,2,5,300,3,3,3
+SE,20,2,1,51,Female,19,Universitetsuddannelse,1,1,2,2,5,600,6,6,3
+SE,30,2,1,52,Male,12,Gymnasial uddannelse,1,1,2,2,5,60,3,3,2
+SE,20,2,1,51,Male,18,Universitetsuddannelse,1,1,2,2,5,120,7,7,4
+SE,120,2,2,61,Male,11,Gymnasial uddannelse,1,1,1,2,5,60,2,2,3
+SE,60,2,1,41,Female,18,Universitetsuddannelse,0,2,2,2,5,600,5,7,4
+SE,NA,4,1,90,Male,6,Grundskole,0,1,2,2,1,NA,7,7,1
+SE,30,3,1,30,Male,18,Universitetsuddannelse,1,2,2,2,5,720,7,7,3
+SE,40,2,1,54,Male,17,Videregående uddannelse,1,1,2,2,5,480,9,9,2
+SE,60,2,1,77,Male,7,Grundskole,0,1,2,2,1,NA,4,5,2
+SE,NA,1,1,76,Male,9,Grundskole,0,1,2,2,3,NA,2,3,1
+SE,120,1,1,67,Male,15,Videregående uddannelse,1,1,1,1,5,300,3,4,4
+SE,90,2,1,80,Female,17,Videregående uddannelse,0,1,2,2,1,NA,5,6,3
+SE,45,2,1,44,Male,22,Universitetsuddannelse,1,1,2,1,5,240,9,8,4
+SE,60,2,1,53,Female,15,Universitetsuddannelse,1,1,2,2,5,300,5,6,3
+SE,90,1,1,42,Male,18,Videregående uddannelse,1,1,2,2,5,330,6,4,4
+SE,30,3,2,69,Male,NA,Videregående uddannelse,0,2,2,1,5,240,4,3,3
+SE,30,2,1,73,Male,7,Grundskole,1,1,2,2,5,30,6,5,2
+SE,60,2,1,66,Female,13,Gymnasial uddannelse,1,1,2,2,5,60,7,6,2
+SE,240,4,1,25,Male,17,Gymnasial uddannelse,0,1,2,2,5,240,NA,NA,3
+SE,10,3,2,24,Male,13,Gymnasial uddannelse,0,3,2,2,5,240,6,6,2
+SE,NA,2,1,31,Male,12,Gymnasial uddannelse,1,1,2,2,3,NA,7,7,3
+SE,60,2,1,81,Male,7,Grundskole,1,1,2,2,5,90,3,3,3
+SE,180,1,1,64,Male,16,Universitetsuddannelse,0,1,1,2,5,120,9,8,5
+SE,60,2,1,29,Female,12,Gymnasial uddannelse,1,2,2,2,5,120,5,3,2
+SE,60,3,1,82,Female,8,Grundskole,0,2,2,2,5,120,5,3,1
+SE,30,3,1,33,Male,15,Universitetsuddannelse,1,2,2,2,5,780,7,7,1
+SE,120,2,1,28,Female,12,Gymnasial uddannelse,1,1,2,2,5,120,6,7,2
+SE,90,1,1,55,Male,13,Gymnasial uddannelse,1,1,1,1,5,360,8,8,4
+SE,30,3,1,21,Male,12,Gymnasial uddannelse,0,1,2,2,5,240,3,3,4
+SE,30,3,1,47,Female,17,Universitetsuddannelse,1,2,2,2,5,240,5,7,4
+SE,120,2,1,68,Male,11,Gymnasial uddannelse,0,3,2,2,4,210,6,6,2
+SE,15,2,1,60,Female,16,Videregående uddannelse,1,1,2,2,5,480,4,3,2
+SE,90,2,1,22,Female,14,Gymnasial uddannelse,0,2,1,2,5,300,4,4,3
+SE,120,2,1,42,Female,15,Videregående uddannelse,1,1,2,2,5,600,6,6,2
+SE,30,3,1,50,Male,12,Gymnasial uddannelse,1,1,1,2,5,240,6,7,3
+SE,60,2,1,32,Male,17,Universitetsuddannelse,1,1,2,2,5,180,6,5,5
+SE,90,2,1,67,Female,13,Videregående uddannelse,0,1,2,2,5,270,3,4,2
+SE,150,2,1,80,Female,13,Videregående uddannelse,0,2,2,2,2,NA,3,4,2
+SE,30,3,1,25,Female,18,Gymnasial uddannelse,0,1,2,2,5,540,4,4,3
+SE,60,2,1,61,Male,16,Videregående uddannelse,1,1,1,2,5,540,8,7,2
+SE,60,2,1,23,Female,14,Gymnasial uddannelse,0,1,1,2,5,780,6,6,4
+SE,120,1,1,50,Female,18,Universitetsuddannelse,1,2,2,1,5,600,7,8,4
+SE,60,2,1,29,Male,17,Universitetsuddannelse,1,1,2,2,5,660,8,7,2
+SE,240,1,1,69,Female,18,Universitetsuddannelse,0,1,1,2,5,300,4,4,4
+SE,120,2,1,78,Male,13,Gymnasial uddannelse,1,1,2,2,5,540,7,5,3
+SE,120,1,1,72,Male,18,Universitetsuddannelse,0,2,2,2,5,240,1,1,2
+SE,30,3,1,50,Female,15,Universitetsuddannelse,1,1,2,2,5,600,7,7,2
+SE,60,1,1,55,Female,10,Gymnasial uddannelse,1,1,2,2,5,360,6,6,2
+SE,90,1,1,75,Female,3,Videregående uddannelse,0,1,2,2,5,120,7,8,1
+SE,90,2,1,67,Male,11,Gymnasial uddannelse,0,1,2,2,5,120,6,4,4
+SE,NA,1,1,80,Male,11,Videregående uddannelse,0,1,2,2,5,600,2,4,2
+SE,30,2,1,54,Male,13,Videregående uddannelse,1,2,2,2,5,180,6,7,3
+SE,1,3,1,31,Female,17,Universitetsuddannelse,1,2,2,2,5,600,7,7,1
+SE,60,1,1,39,Female,17,Universitetsuddannelse,1,2,1,2,5,120,6,5,4
+SE,90,1,1,75,Male,15,Universitetsuddannelse,0,1,2,2,5,90,6,6,4
+SE,90,2,1,23,Male,12,Gymnasial uddannelse,1,1,2,2,5,480,0,0,3
+SE,20,2,1,38,Male,12,Gymnasial uddannelse,1,1,2,2,4,120,4,5,2
+SE,60,2,1,39,Male,20,Universitetsuddannelse,1,1,2,2,5,660,3,3,2
+SE,60,2,1,55,Male,11,Gymnasial uddannelse,1,1,1,1,5,210,8,8,3
+SE,90,1,1,60,Male,13,Videregående uddannelse,1,3,1,2,5,150,2,2,3
+SE,180,1,1,69,Male,22,Universitetsuddannelse,0,1,2,2,5,240,1,3,3
+SE,60,3,1,54,Male,14,Videregående uddannelse,1,1,1,1,5,600,6,4,4
+SE,120,1,1,86,Male,15,Videregående uddannelse,0,1,1,2,5,45,7,7,4
+SE,10,2,1,48,Female,17,Universitetsuddannelse,1,1,2,2,5,540,5,6,3
+SE,120,1,1,69,Male,21,Universitetsuddannelse,0,2,1,1,5,240,8,8,5
+SE,20,3,2,66,Male,12,Gymnasial uddannelse,1,2,2,2,5,240,0,4,2
+SE,60,2,1,43,Male,12,Gymnasial uddannelse,1,1,2,2,5,330,8,7,3
+SE,45,2,1,59,Female,12,Gymnasial uddannelse,1,1,2,2,5,300,6,6,2
+SE,60,3,2,83,Female,9,Grundskole,0,1,2,2,1,NA,4,6,2
+SE,60,2,1,35,Male,16,Universitetsuddannelse,1,1,2,2,5,120,5,5,3
+SE,30,2,1,79,Female,15,Videregående uddannelse,0,2,1,2,5,255,6,8,3
+SE,120,3,1,68,Female,13,Gymnasial uddannelse,1,1,2,1,2,NA,3,3,3
+SE,20,4,1,65,Male,23,Universitetsuddannelse,0,3,2,2,5,120,0,0,4
+SE,10,2,1,31,Female,15,Grundskole,1,1,1,2,5,300,6,6,4
+SE,60,1,1,82,Female,12,Videregående uddannelse,0,1,1,1,5,240,9,7,5
+SE,60,2,1,39,Female,16,Universitetsuddannelse,1,1,2,2,5,600,4,4,2
+SE,30,2,1,52,Male,18,Universitetsuddannelse,1,1,2,2,5,480,7,6,2
+SE,30,3,1,44,Male,18,Universitetsuddannelse,1,1,2,2,5,720,7,7,3
+SE,60,2,1,52,Female,18,Universitetsuddannelse,1,1,2,2,5,60,7,7,3
+SE,NA,2,1,76,Female,10,Grundskole,0,1,2,2,3,NA,3,3,2
+SE,90,2,1,61,Female,16,Universitetsuddannelse,1,1,2,2,5,480,7,8,4
+SE,30,2,1,44,Male,13,Videregående uddannelse,1,2,2,2,5,240,5,5,3
+SE,30,1,1,73,Male,13,Gymnasial uddannelse,0,1,2,2,5,200,5,5,2
+SE,60,2,1,42,Male,17,Universitetsuddannelse,1,2,2,2,5,360,8,8,4
+SE,30,2,1,25,Female,15,Gymnasial uddannelse,0,1,1,2,5,300,3,3,3
+SE,NA,2,1,81,Male,11,Gymnasial uddannelse,0,2,2,2,4,60,3,2,2
+SE,30,2,1,47,Male,16,Universitetsuddannelse,1,1,2,2,5,480,5,5,2
+SE,10,3,1,55,Male,11,Gymnasial uddannelse,1,1,2,2,5,150,4,5,2
+SE,30,2,1,65,Male,14,Universitetsuddannelse,0,1,1,1,5,240,2,2,3
+SE,30,4,1,78,Female,14,Videregående uddannelse,0,2,2,2,5,180,1,1,1
+SE,120,2,1,81,Male,7,Grundskole,0,2,2,2,4,15,5,4,3
+SE,30,1,1,80,Male,9,Gymnasial uddannelse,1,NA,2,2,1,NA,2,4,4
+SE,30,2,1,59,Male,12,Gymnasial uddannelse,1,1,2,2,5,90,7,7,2
+SE,120,1,1,76,Male,9,Grundskole,0,1,1,1,5,NA,5,5,3
+SE,10,2,1,32,Male,17,Gymnasial uddannelse,0,3,1,2,5,360,5,6,4
+SE,60,3,1,56,Female,16,Universitetsuddannelse,1,1,1,2,5,240,3,3,4
+SE,15,3,1,48,Female,17,Videregående uddannelse,1,1,2,1,5,540,7,5,4
+SE,60,2,1,60,Female,15,Gymnasial uddannelse,0,2,NA,2,5,120,4,5,2
+SE,60,1,1,72,Male,18,Universitetsuddannelse,0,2,1,1,5,180,10,10,5
+SE,30,2,1,73,Male,10,Grundskole,0,2,2,2,5,60,4,4,2
+SE,8,2,1,39,Female,16,Gymnasial uddannelse,1,1,1,1,5,600,2,2,4
+SE,90,1,1,59,Male,11,Gymnasial uddannelse,0,2,2,2,5,90,5,6,3
+SE,30,2,1,29,Male,15,Videregående uddannelse,1,2,2,2,5,300,8,9,4
+SE,5,3,1,64,Female,17,Universitetsuddannelse,1,2,2,2,5,600,4,4,5
+SE,35,2,1,59,Male,13,Videregående uddannelse,1,1,2,2,5,45,3,4,2
+SE,129,2,2,34,Male,24,Videregående uddannelse,1,3,2,2,5,240,7,1,3
+SE,60,2,1,71,Male,11,Gymnasial uddannelse,0,1,2,1,5,60,5,5,2
+SE,90,1,1,75,Male,16,Universitetsuddannelse,0,1,2,2,5,60,3,4,3
+SE,30,2,1,58,Female,15,Gymnasial uddannelse,1,4,1,2,5,360,3,3,2
+SE,45,1,1,62,Male,17,Universitetsuddannelse,1,1,1,2,5,600,5,5,4
+SE,30,2,1,48,Male,12,Gymnasial uddannelse,1,2,1,2,5,90,4,6,2
+SE,180,2,1,80,Male,16,Videregående uddannelse,0,1,2,2,5,120,5,5,3
+SE,60,2,1,53,Male,11,Gymnasial uddannelse,1,2,1,1,5,120,4,4,2
+SE,30,3,1,85,Female,12,Videregående uddannelse,0,1,2,2,1,NA,5,7,1
+SE,210,1,1,26,Male,15,Gymnasial uddannelse,0,1,2,2,5,720,7,6,4
+SE,60,2,1,59,Male,11,Gymnasial uddannelse,1,1,2,1,5,90,7,7,1
+SE,30,2,1,40,Male,20,Universitetsuddannelse,1,1,1,1,5,240,5,5,4
+SE,0,3,2,20,Male,13,Gymnasial uddannelse,0,2,2,2,5,360,6,6,2
+SE,35,1,1,43,Male,16,Universitetsuddannelse,1,2,2,2,5,733,4,6,5
+SE,45,1,1,80,Female,20,Videregående uddannelse,0,3,1,1,5,60,7,6,3
+SE,60,2,1,80,Female,10,Grundskole,0,1,1,1,4,30,7,8,3
+SE,210,2,1,81,Female,16,Videregående uddannelse,0,1,2,2,5,30,6,5,3
+SE,90,1,1,61,Female,20,Universitetsuddannelse,1,1,2,2,5,120,7,7,3
+SE,60,2,1,34,Male,18,Universitetsuddannelse,1,1,1,2,5,660,5,5,2
+SE,90,2,1,70,Female,14,Videregående uddannelse,1,1,1,1,5,90,7,7,3
+SE,60,1,1,42,Female,19,Universitetsuddannelse,1,1,1,1,5,300,6,6,4
